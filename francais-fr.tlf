@@ -184,7 +184,7 @@ SECTION EDDiscoveryForm
 .buttonExt3dmap.ToolTip: "Open the 3D Map" => "Ouvrir la carte 3D"
 .buttonReloadActions.ToolTip: "DEBUG reload action system" => "DEBUG recharger le système d'action (?)"
 .addTabToolStripMenuItem: "Insert Tab with panel.." => "Insérer l'onglet dans le panneau"
-.removeTabToolStripMenuItem: "Remove Tab" => "Retirer l'onglet"
+.removeTabToolStripMenuItem: "Remove Tab" => "Supprimer l'onglet"
 .renameTabToolStripMenuItem: "Rename Tab" => "Renommer l'onglet"
 .TSF: "Tab setup failure: Primary tab or TG failed to load.\r\nThis is a abnormal condition - please problem to EDD Team on discord or github.\r\nTo try and clear it, hold down shift and then launch the program.\r\nClick on Reset tabs, then Run program, which may clear the problem." => "Erreur de création d'onglet \r\nCette erreur est anormale, rapportez le problème à l'équipe d'EDD sur discord ou github.\r\nPour essayer de récupérer, maintenir la touche MAJ et lancer le programme.\r\nCliquer sur RAZ Onglets, puis relancer le programme, ceci pourrait régler le probblème."
 .RTABL: "Name:" => "Nom:"
