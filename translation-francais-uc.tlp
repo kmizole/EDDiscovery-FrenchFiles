@@ -1,73 +1,73 @@
 ﻿
 SECTION UserControlBookmarks
 
-.ColType: "Bookmark Type" @
-.ColBookmarkName: "Bookmark Name" @
+.ColType: "Bookmark Type" => "Type de marque-page"
+.ColBookmarkName: "Bookmark Name" => "Nom du marque-page"
 .ColDescription: "Description" @
 .ColX: "X" @
 .ColY: "Y" @
 .ColZ: "Z" @
-.labelSearch: "Search" @
-.toolStripMenuItemGotoStar3dmap: "Goto in 3D Map" @
-.openInEDSMToolStripMenuItem: "Open in EDSM" @
-.buttonDelete.ToolTip: "Delete selected bookmark" @
-.buttonNew.ToolTip: "New Bookmark" @
-.buttonEdit.ToolTip: "Edit Selected Bookmark" @
-.textBoxFilter.ToolTip: "Search for Bookmark" @
-.CFN: "Do you really want to delete {0} bookmarks?\r\nConfirm or Cancel" @
-.CF: "Do you really want to delete the bookmark for {0}\r\nConfirm or Cancel" @
-.SysU: "System could not be found - has not been synched or EDSM is unavailable" @
-.buttonExtImport.ToolTip: "Import bookmarks to EDD from CSV file" @
-.buttonExtExcel.ToolTip: "Export bookmarks to CSV file" @
+.labelSearch: "Search" => "Recherche"
+.toolStripMenuItemGotoStar3dmap: "Goto in 3D Map" => "Aller dans la carte 3D"
+.openInEDSMToolStripMenuItem: "Open in EDSM" => "Ouvrir dans EDSM"
+.buttonDelete.ToolTip: "Delete selected bookmark" => "Supprimer le marque-page selectionné"
+.buttonNew.ToolTip: "New Bookmark" => "Nouveau marque-page"
+.buttonEdit.ToolTip: "Edit Selected Bookmark" => "Modifier le marque-page selectionné"
+.textBoxFilter.ToolTip: "Search for Bookmark" => "Chercher un marque-page"
+.CFN: "Do you really want to delete {0} bookmarks?\r\nConfirm or Cancel" => "Voulez vous vraiment supprimer {0} marque-pages ? \r\n Confirmer ou Annuler"
+.CF: "Do you really want to delete the bookmark for {0}\r\nConfirm or Cancel" => "Voulez vous vraiment supprimer le marque-page pour {0} ? \r\n Confirmer ou Annuler" 
+.SysU: "System could not be found - has not been synched or EDSM is unavailable" => "Système introuvable - il n'a pas été synchronisé ou EDSM est indisponible"
+.buttonExtImport.ToolTip: "Import bookmarks to EDD from CSV file" => "Importer des marque-pages vers EDD depuis un fichier CSV"
+.buttonExtExcel.ToolTip: "Export bookmarks to CSV file" => "Exporter des marque-pages vers un fichier CSV"
 
 SECTION UserControlCombatPanel
 
-.Time: "Time" @
-.Event: "Event" @
+.Time: "Time" => "Temps"
+.Event: "Event" => "Evenement"
 .Description: "Description" @
-.Reward: "Reward" @
-.labelCredits: "Credits" @
-.labelTotalKills: "Kills" @
-.labelFactionKills: "Faction Kills" @
+.Reward: "Reward" => "Récompense"
+.labelCredits: "Credits" => "Crédits"
+.labelTotalKills: "Kills" => "Tués"
+.labelFactionKills: "Faction Kills" => "Tués par la faction"
 .labelBalance: "Balance" @
 .labelTotalCrimes: "Crimes" @
 .labelFaction: "Faction" @
-.labelTotalReward: "TotalReward" @
-.labelFactionReward: "FactionReward" @
-.checkBoxCustomGridOn: "Grid" @
-.buttonExtEditCampaign: "Edit" @
-.labelCredits.ToolTip: "Current Credits" @
-.labelTotalKills.ToolTip: "Total kills in campaign" @
-.labelFactionKills.ToolTip: "Faction Kills" @
-.labelBalance.ToolTip: "Total reward less any costs (fines, rebuys etc)" @
-.labelTotalCrimes.ToolTip: "How many times you've been caught!" @
-.labelFaction.ToolTip: "Target Faction" @
-.labelTotalReward.ToolTip: "Total reward" @
-.labelFactionReward.ToolTip: "Reward associated with destroying the faction ships" @
-.checkBoxCustomGridOn.ToolTip: "Show grid when in transparent mode" @
-.comboBoxCustomCampaign.ToolTip: "Select Campaign to view" @
-.buttonExtEditCampaign.ToolTip: "Edit user defined campaign" @
-.Kills: "Kills:" @
+.labelTotalReward: "TotalReward" => "Récompense totale"
+.labelFactionReward: "FactionReward" => "Récompense de faction"
+.checkBoxCustomGridOn: "Grid" => "Grille"
+.buttonExtEditCampaign: "Edit" => "Modifier"
+.labelCredits.ToolTip: "Current Credits" => "Crédits disponibles"
+.labelTotalKills.ToolTip: "Total kills in campaign" => "Nombre de tués dans la campagne"
+.labelFactionKills.ToolTip: "Faction Kills" => "Tués par la faction"
+.labelBalance.ToolTip: "Total reward less any costs (fines, rebuys etc)" => "Récompense totale moins les coûts (amendes, rachats, etc)"
+.labelTotalCrimes.ToolTip: "How many times you've been caught!" => "Nombre de fois ou vous avez été pris !"
+.labelFaction.ToolTip: "Target Faction" => "Faction cible"
+.labelTotalReward.ToolTip: "Total reward" => "Récompense totale"
+.labelFactionReward.ToolTip: "Reward associated with destroying the faction ships" => "Récompense associée à la destruction de vaisseau de faction"
+.checkBoxCustomGridOn.ToolTip: "Show grid when in transparent mode" => "Montrer la grille en mode transparent"
+.comboBoxCustomCampaign.ToolTip: "Select Campaign to view" => "Selectionner la campagne à afficher"
+.buttonExtEditCampaign.ToolTip: "Edit user defined campaign" => "Editer la campgne définie par l'utilisateur"
+.Kills: "Kills:" => "Tués:"
 .Faction: "Faction:" @
 .Crimes: "Crimes:" @
 .Bal: "Bal:" @
-.NewCampaign: "New Campaign" @
-.SinceLastDock: "Since Last Dock" @
-.Name: "Name:" @
-.C1: "Give name to campaign" @
-.C2: "Optional faction to target" @
-.Start: "Start:" @
-.C3: "Select Start time" @
-.End: "End:" @
-.C4: "Select Start time" @
-.C5: "Press to Accept" @
-.C6: "Press to Cancel" @
-.C7: "Press to Delete" @
-.NoOverwrite: "Name of campaign already in use, cannot overwrite" @
-.Condel: "Confirm deletion of {0}" @
-.NC: "Name changed - can't delete" @
-.NT: "No Target" @
-.labelTarget: "Target" @
+.NewCampaign: "New Campaign" => "Nouvelle Campagne"
+.SinceLastDock: "Since Last Dock" => "Depuis le dernier appontage"
+.Name: "Name:" => "Nom:"
+.C1: "Give name to campaign" => "Donner un nom à la campagne"
+.C2: "Optional faction to target" => "Faction à cibler (optionnel)"
+.Start: "Start:" => "Début:"
+.C3: "Select Start time" => Selectionner heure de début"
+.End: "End:" => "Fin:"
+.C4: "Select Start time" => "Selectionner heure de début"
+.C5: "Press to Accept" => "Appuyer pour accepter"
+.C6: "Press to Cancel" => "Appuyer pour annuler"
+.C7: "Press to Delete" => "Appuyer pour supprimer"
+.NoOverwrite: "Name of campaign already in use, cannot overwrite" => "Nom de la campagne déjà utilisé, écrasement impossible"
+.Condel: "Confirm deletion of {0}" => "Connfirmer la suppression de {0}"
+.NC: "Name changed - can't delete" => "Nom changé - suppression impossible"
+.NT: "No Target" => "Pas de cible"
+.labelTarget: "Target" => "Cible"
 
 SECTION UserControlContainerGrid
 

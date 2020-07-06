@@ -1,24 +1,24 @@
 ﻿
 SECTION JournalTypeEnum
 
-.Unknown: "Unknown" @
+.Unknown: "Unknown" => "Inconnu"
 .AfmuRepairs: "Afmu Repairs" @
 .ApproachBody: "Approach Body" @
 .ApproachSettlement: "Approach Settlement" @
-.Bounty: "Bounty" @
-.BuyAmmo: "Buy Ammo" @
-.BuyDrones: "Buy Drones" @
-.BuyExplorationData: "Buy Exploration Data" @
-.BuyTradeData: "Buy Trade Data" @
+.Bounty: "Bounty" => "Prime"
+.BuyAmmo: "Buy Ammo" => "Achat munitions"
+.BuyDrones: "Buy Drones" => "Achat drones"
+.BuyExplorationData: "Buy Exploration Data" => "Achat données d'exploration"
+.BuyTradeData: "Buy Trade Data" => "Achat données commerciales"
 .CapShipBond: "Cap Ship Bond" @
 .Cargo: "Cargo" @
 .CargoDepot: "Cargo Depot" @
-.ChangeCrewRole: "Change Crew Role" @
-.ClearSavedGame: "Clear Saved Game" @
-.CockpitBreached: "Cockpit Breached" @
-.CollectCargo: "Collect Cargo" @
-.Commander: "Commander" @
-.CommitCrime: "Commit Crime" @
+.ChangeCrewRole: "Change Crew Role" => "Changement de rôle équipage"
+.ClearSavedGame: "Clear Saved Game" => "Suppression sauvegarde"
+.CockpitBreached: "Cockpit Breached" => "Verrière brisée"
+.CollectCargo: "Collect Cargo" => "Rammassage marchandise"
+.Commander: "Commander" => "Commandant"
+.CommitCrime: "Commit Crime" => "Crime commis"
 .CommunityGoal: "Community Goal" @
 .CommunityGoalJoin: "Community Goal Join" @
 .CommunityGoalReward: "Community Goal Reward" @
@@ -29,14 +29,14 @@ SECTION JournalTypeEnum
 .DatalinkScan: "Datalink Scan" @
 .Died: "Died" @
 .DiscoveryScan: "Discovery Scan" @
-.Docked: "Docked" @
-.DockFighter: "Dock Fighter" @
-.DockingCancelled: "Docking Cancelled" @
-.DockingDenied: "Docking Denied" @
-.DockingGranted: "Docking Granted" @
-.DockingRequested: "Docking Requested" @
-.DockingTimeout: "Docking Timeout" @
-.DockSRV: "Dock SRV" @
+.Docked: "Docked" => "Apponté"
+.DockFighter: "Dock Fighter" => "Appontage chasseur"
+.DockingCancelled: "Docking Cancelled" => "Appontage annulé"
+.DockingDenied: "Docking Denied" => "Appontage rejeté"
+.DockingGranted: "Docking Granted" => "Appontage autorisé"
+.DockingRequested: "Docking Requested" => "Appontage demandé"
+.DockingTimeout: "Docking Timeout" => "Temps d'appontage écoulé"
+.DockSRV: "Dock SRV" => "Appontage SVR"
 .EjectCargo: "Eject Cargo" @
 .EndCrewSession: "End Crew Session" @
 .EngineerApply: "Engineer Apply" @
@@ -46,12 +46,12 @@ SECTION JournalTypeEnum
 .EngineerProgress: "Engineer Progress" @
 .EscapeInterdiction: "Escape Interdiction" @
 .FactionKillBond: "Faction Kill Bond" @
-.FSDJump: "FSD Jump" @
+.FSDJump: "FSD Jump" => Saut FSD"
 .FuelScoop: "Fuel Scoop" @
 .Fileheader: "Fileheader" @
 .FighterDestroyed: "Fighter Destroyed" @
 .FighterRebuilt: "Fighter Rebuilt" @
-.Friends: "Friends" @
+.Friends: "Friends" => "Amis"
 .HeatDamage: "Heat Damage" @
 .HeatWarning: "Heat Warning" @
 .HullDamage: "Hull Damage" @

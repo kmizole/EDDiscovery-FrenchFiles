@@ -613,7 +613,7 @@ SECTION MaterialCommodityData
 .crystallinespheres: "Crystalline Spheres" @
 .advert1: "Ultra-Compact Processor Prototypes" @
 .harmasilversearum: "Harma Silver Sea Rum" @
-.earthrelics: "Earth Relics" @
+.earthrelics: "Earth Relics" => "Reliques de la Terre"
 .aislingmediamaterials: "Aisling Media Materials" @
 .aislingmediaresources: "Aisling Sealed Contracts" @
 .aislingpromotionalmaterials: "Aisling Programme Materials" @
@@ -653,7 +653,7 @@ SECTION MaterialCommodityData
 .markedslaves: "Marked Slaves" @
 .torvaldeeds: "Torval Deeds" @
 .drones: "Drones" @
-.guardian_vesselblueprint: "Guardian Vessel Blueprint Segment" @
+.guardian_vesselblueprint: "Guardian Vessel Blueprint Segment" => "Morceau de plan de vaisseau – Guardians"
 .duradrives: "Duradrives" @
 .nanomedicines: "Nanomedicines" @
 .rhodplumsite: "Rhodplumsite" @
@@ -664,10 +664,10 @@ SECTION MaterialCommodityData
 .grandidierite: "Grandidierite" @
 .alexandrite: "Alexandrite" @
 .opal: "Opal" @
-.thargoidtissuesampletype4: "Thargoid Hydra Tissue Sample" @
-.ancientkey: "Ancient Key" @
+.thargoidtissuesampletype4: "Thargoid Hydra Tissue Sample" => "Échantillon de tissu thargoid – Hydra"
+.ancientkey: "Ancient Key" => "Clé antique"
 .rockforthfertiliser: "Rockforth Fertiliser" @
-.agronomictreatment: "Agronomic Treatment" @
+.agronomictreatment: "Agronomic Treatment" => "Traitement agronnomique"
 .m_tissuesample_soft: "Mollusc Soft Tissue" @
 .s_tissuesample_cells: "Pod Core Tissue" @
 .s_tissuesample_surface: "Pod Dead Tissue" @
