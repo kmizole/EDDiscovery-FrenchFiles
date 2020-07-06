@@ -22,7 +22,7 @@ SECTION UserControlBookmarks
 
 SECTION UserControlCombatPanel
 
-.Time: "Time" => "Temps"
+.Time: "Time" => "Heure"
 .Event: "Event" => "Evenement"
 .Description: "Description" @
 .Reward: "Reward" => "Récompense"
@@ -71,68 +71,68 @@ SECTION UserControlCombatPanel
 
 SECTION UserControlContainerGrid
 
-.buttonExtTile.ToolTip: "Tile the grid panels" @
-.buttonExtDelete.ToolTip: "Remove selected panel" @
-.buttonExtPopOut.ToolTip: "Click to select a pop out panel to display" @
+.buttonExtTile.ToolTip: "Tile the grid panels" => "Tuile dans les panneaux de grille"
+.buttonExtDelete.ToolTip: "Remove selected panel" => "Supprimer le panneau sélectionné"
+.buttonExtPopOut.ToolTip: "Click to select a pop out panel to display" => "Cliquer pour selectionner une fenêtre externe à afficher"
 
 SECTION UserControlCompass
 
-.labelBookmark: "System Bookmarks" @
-.checkBoxHideTransparent: "Hide In Transparent" @
-.labelTargetLat: "Target" @
+.labelBookmark: "System Bookmarks" => "Marque-pages système"
+.checkBoxHideTransparent: "Hide In Transparent" => "Masquer en transparent"
+.labelTargetLat: "Target" => "Cible"
 
 SECTION UserControlEDSM
 
-.extCheckBoxStar.ToolTip: "Select another system to view" @
-.System: "System:" @
-.EnterSys: "Show System" @
+.extCheckBoxStar.ToolTip: "Select another system to view" => "Sélectionner un autre système à afficher"
+.System: "System:" => "Système:"
+.EnterSys: "Show System" => "Afficher système"
 
 SECTION UserControlSearch
 
-.MaterialsCommodities: "Materials Commodities" @
-.Stars: "Stars" @
+.MaterialsCommodities: "Materials Commodities" => "Matériaux marchandises"
+.Stars: "Stars" => "Étoiles"
 .Scans: "Scans" @
 
 SECTION SearchMaterialsCommodities
 
-.RareCommodity: ", Rare Commodity" @
-.AND: "AND" @
-.OR: "OR" @
-.DIS: "Discovered at " @
-.COL: "Collected at " @
-.label2: "Item 2" @
-.label1: "Item 1" @
-.buttonExtFind: "Find" @
+.RareCommodity: ", Rare Commodity" => "Marchandise rare"
+.AND: "AND" => "ET"
+.OR: "OR" => "OU"
+.DIS: "Discovered at " => "Découvert à"
+.COL: "Collected at " => "Collecté à"
+.label2: "Item 2" => "Objet 2"
+.label1: "Item 1" => "Objet 1"
+.buttonExtFind: "Find" => "Chercher"
 .ColumnDate: "Date" @
-.ColumnStar: "Star" @
-.ColumnLocation: "Location" @
-.ColumnCurrentDistance: "Current Distance" @
+.ColumnStar: "Star" => "Étoile"
+.ColumnLocation: "Location" => "Localisationn"
+.ColumnCurrentDistance: "Current Distance" => "Distance actuelle"
 .ColumnPosition: "Position" @
 
 SECTION SearchScans
 
-.Select: "Select" @
-.Name: "Name:" @
-.SN: "Enter Search Name:" @
-.DEL: "Confirm deletion of" @
-.DELNO: "Cannot delete this entry" @
-.CNV: "Condition is not valid" @
+.Select: "Select" => "Selectionner"
+.Name: "Name:" => "Nom:"
+.SN: "Enter Search Name:" => "Entrer le nom de la recherche:"
+.DEL: "Confirm deletion of" => "Confirmer la suppression de"
+.DELNO: "Cannot delete this entry" => "Impossible de supprimer l'entrée"
+.CNV: "Condition is not valid" => "Condition invalide"
 .CD: "Condition" @
-.buttonDelete: "Delete" @
-.buttonSave: "Save" @
-.buttonFind: "Find" @
+.buttonDelete: "Delete" => "Supprimer"
+.buttonSave: "Save" => "Sauvegarder"
+.buttonFind: "Find" => "Chercher"
 .ColumnDate: "Date" @
-.ColumnStar: "Star" @
+.ColumnStar: "Star" => "Étoile"
 .ColumnInformation: "Information" @
-.ColumnCurrentDistance: "Current Distance" @
+.ColumnCurrentDistance: "Current Distance" => "Distance actuelle"
 .ColumnPosition: "Position" @
 .conditionFilterUC.buttonMore: "+" @
 
 SECTION SearchStars
 
-.ColumnStar: "Star" @
-.ColumnCentreDistance: "Centre Distance" @
-.ColumnCurrentDistance: "Current Distance" @
+.ColumnStar: "Star" => "Étoile"
+.ColumnCentreDistance: "Centre Distance" => "Distance du centre"
+.ColumnCurrentDistance: "Current Distance" => "Disctance actuelle"
 .ColumnPosition: "Position" @
 
 SECTION DataGridViewStarResults
