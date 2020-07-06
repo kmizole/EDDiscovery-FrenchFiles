@@ -113,8 +113,8 @@ SECTION PopOutInfo
 .ScreenShot.Title: "Screen Shot" => "Captures d'écran"
 .Grid.Description: "Grid (allows other panels to be placed in the it)" => "Grille (permettant l'intégration d'autres panneaux)"
 .Grid.Title: "Grid" => "Grille"
-.SplitterControl.Description: "Splitter (allows other panels to be placed in the it)" @
-.SplitterControl.Title: "Splitter" @
+.SplitterControl.Description: "Splitter (allows other panels to be placed in the it)" => "Séparateur (permet de placer d'autre panneau à l'intérieur)"
+.SplitterControl.Title: "Splitter" => "Séparateur"
 .PanelSelector.Description: "" @
 .PanelSelector.Title: "+" @
 .Search.Title: "Search" => "Recherche"
