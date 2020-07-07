@@ -478,130 +478,130 @@ SECTION MaterialCommodityData
 .nonlethalweapons: "Non-Lethal Weapons" => "Armes incapacitantes"
 .thehuttonmug: "The Hutton Mug" => "La tasse Hutton"
 .eraninpearlwhisky: "Eranin Pearl Whisky" => "Whisky Eranin Pearl"
-.lavianbrandy: "Lavian Brandy" @
-.hip10175bushmeat: "HIP 10175 Bush Meat" @
-.albinoquechuamammoth: "Albino Quechua Mammoth Meat" @
-.utgaroarmillenialeggs: "Utgaroar Millennial Eggs" @
-.witchhaulkobebeef: "Witchhaul Kobe Beef" @
-.karsukilocusts: "Karsuki Locusts" @
-.giantirukamasnails: "Giant Irukama Snails" @
-.baltahsinevacuumkrill: "Baltah'sine Vacuum Krill" @
-.cetirabbits: "Ceti Rabbits" @
-.kachiriginleaches: "Kachirigin Filter Leeches" @
-.lyraeweed: "Lyrae Weed" @
-.onionhead: "Onionhead" @
-.tarachtorspice: "Tarach Spice" @
+.lavianbrandy: "Lavian Brandy" => "Brandy lavien"
+.hip10175bushmeat: "HIP 10175 Bush Meat" => "Viande de gibier de HIP 10175"
+.albinoquechuamammoth: "Albino Quechua Mammoth Meat" => "Viande de mammouth albino quechuan"
+.utgaroarmillenialeggs: "Utgaroar Millennial Eggs" => "Œufs millénaires d'Utgaroar"
+.witchhaulkobebeef: "Witchhaul Kobe Beef" => "Bœuf de Kobe de Witchhaul"
+.karsukilocusts: "Karsuki Locusts" => "Sauterelles de Karsuki"
+.giantirukamasnails: "Giant Irukama Snails" => "Escargots géants d'Irukama"
+.baltahsinevacuumkrill: "Baltah'sine Vacuum Krill" => "Crevettes stellaires de Baltah'sine"
+.cetirabbits: "Ceti Rabbits" => "Lapins de Ceti"
+.kachiriginleaches: "Kachirigin Filter Leeches" => "Sangsues de Kachirigin"
+.lyraeweed: "Lyrae Weed" => "Herbe lyrane"
+.onionhead: "Onionhead" => "Tête d'oignon"
+.tarachtorspice: "Tarach Spice" => "Épice de Tarash"
 .wolf1301fesh: "Wolf Fesh" @
-.borasetanipathogenetics: "Borasetani Pathogenetics" @
-.hip118311swarm: "HIP 118311 Swarm" @
-.konggaale: "Kongga Ale" @
-.wuthielokufroth: "Wuthielo Ku Froth" @
-.alacarakmoskinart: "Alacarakmo Skin Art" @
-.eleuthermals: "Eleu Thermals" @
-.eshuumbrellas: "Eshu Umbrellas" @
-.karetiicouture: "Karetii Couture" @
-.njangarisaddles: "Njangari Saddles" @
-.anynacoffee: "Any Na Coffee" @
-.cd75catcoffee: "CD-75 Kitten Brand Coffee" @
-.gomanyauponcoffee: "Goman Yaupon Coffee" @
-.volkhabbeedrones: "Volkhab Bee Drones" @
-.kinagoinstruments: "Kinago Violins" @
-.ngunamodernantiques: "Nguna Modern Antiques" @
-.rajukrustoves: "Rajukru Multi-Stoves" @
-.tiolcewaste2pasteunits: "Tiolce Waste2Paste Units" @
-.chieridanimarinepaste: "Chi Eridani Marine Paste" @
-.esusekucaviar: "Esuseku Caviar" @
-.livehecateseaworms: "Live Hecate Sea Worms" @
-.helvetitjpearls: "Helvetitj Pearls" @
-.hip41181squid: "HIP Proto-Squid" @
-.coquimspongiformvictuals: "Coquim Spongiform Victuals" @
-.aerialedenapple: "Eden Apples Of Aerial" @
-.neritusberries: "Neritus Berries" @
-.ochoengchillies: "Ochoeng Chillies" @
-.deuringastruffles: "Deuringas Truffles" @
-.hr7221wheat: "HR 7221 Wheat" @
-.jarouarice: "Jaroua Rice" @
-.belalansrayleather: "Belalans Ray Leather" @
-.damnacarapaces: "Damna Carapaces" @
-.rapabaosnakeskins: "Rapa Bao Snake Skins" @
-.vanayequirhinofur: "Vanayequi Ceratomorpha Fur" @
-.bastsnakegin: "Bast Snake Gin" @
-.thrutiscream: "Thrutis Cream" @
-.wulpahyperboresystems: "Wulpa Hyperbore Systems" @
-.aganipperush: "Aganippe Rush" @
-.terramaterbloodbores: "Terra Mater Blood Bores" @
-.holvaduellingblades: "Holva Duelling Blades" @
-.kamorinhistoricweapons: "Kamorin Historic Weapons" @
-.gilyasignatureweapons: "Gilya Signature Weapons" @
-.deltaphoenicispalms: "Delta Phoenicis Palms" @
-.toxandjivirocide: "Toxandji Virocide" @
-.xihecompanions: "Xihe Biomorphic Companions" @
-.sanumameat: "Sanuma Decorative Meat" @
-.ethgrezeteabuds: "Ethgreze Tea Buds" @
-.ceremonialheiketea: "Ceremonial Heike Tea" @
-.tanmarktranquiltea: "Tanmark Tranquil Tea" @
-.azcancriformula42: "AZ Cancri Formula 42" @
-.sothiscrystallinegold: "Sothis Crystalline Gold" @
-.kamitracigars: "Kamitra Cigars" @
+.borasetanipathogenetics: "Borasetani Pathogenetics" => "Fléau de Borasetani"
+.hip118311swarm: "HIP 118311 Swarm" => "Essaim de HIP 118311"
+.konggaale: "Kongga Ale" => "Bière de Kongga"
+.wuthielokufroth: "Wuthielo Ku Froth" => "Mousse de Wuthielo Ku"
+.alacarakmoskinart: "Alacarakmo Skin Art" => "Art épidermique d'Alacarakmo"
+.eleuthermals: "Eleu Thermals" => "Sous-vêtements thermiques d'Eleu"
+.eshuumbrellas: "Eshu Umbrellas" => "Ombrelles d'Eshu"
+.karetiicouture: "Karetii Couture" => "Haute couture karetii"
+.njangarisaddles: "Njangari Saddles" => "Selles de Njangari"
+.anynacoffee: "Any Na Coffee" => "Café Any Na"
+.cd75catcoffee: "CD-75 Kitten Brand Coffee" => "Café Kitten CD-75"
+.gomanyauponcoffee: "Goman Yaupon Coffee" => "Café Goman Yaupon"
+.volkhabbeedrones: "Volkhab Bee Drones" => "Drones butineurs Volkhab"
+.kinagoinstruments: "Kinago Violins" => "Violons de Kinago"
+.ngunamodernantiques: "Nguna Modern Antiques" => "Antiquités modernes de Nguna"
+.rajukrustoves: "Rajukru Multi-Stoves" => "Réchaud universel de Rajukru"
+.tiolcewaste2pasteunits: "Tiolce Waste2Paste Units" => "Pâte 2 déchets de Tiolce"
+.chieridanimarinepaste: "Chi Eridani Marine Paste" => "Pâte marine de Chi Eridani"
+.esusekucaviar: "Esuseku Caviar" => "Caviar d'Esuseku"
+.livehecateseaworms: "Live Hecate Sea Worms" => "Vers marins vivants d'Hecate"
+.helvetitjpearls: "Helvetitj Pearls" => "Perles de Helvetitj"
+.hip41181squid: "HIP Proto-Squid" => "Proto-calamar de HIP"
+.coquimspongiformvictuals: "Coquim Spongiform Victuals" => "Rations spongiformes de Coquim"
+.aerialedenapple: "Eden Apples Of Aerial" => "Pommes d'Eden d'Aerial"
+.neritusberries: "Neritus Berries" => "Baies de Neritus"
+.ochoengchillies: "Ochoeng Chillies" => "Piments d'Ochoeng"
+.deuringastruffles: "Deuringas Truffles" => "Truffes de Deuringas"
+.hr7221wheat: "HR 7221 Wheat" => "Blé de HR 7221"
+.jarouarice: "Jaroua Rice" => "Riz de Jaroua"
+.belalansrayleather: "Belalans Ray Leather" => "Cuir de raie de Belalans"
+.damnacarapaces: "Damna Carapaces" => "Carapaces de Damna"
+.rapabaosnakeskins: "Rapa Bao Snake Skins" => "Peaux de serpent de Rapa Bao"
+.vanayequirhinofur: "Vanayequi Ceratomorpha Fur" => "Fourrure de ceratomorphe de Vanayequi"
+.bastsnakegin: "Bast Snake Gin" => "Gin de serpent Bast"
+.thrutiscream: "Thrutis Cream" => "Crème de Thrutis"
+.wulpahyperboresystems: "Wulpa Hyperbore Systems" => "Système hyperbore de Wulpa"
+.aganipperush: "Aganippe Rush" => "Rush d'Aganippe"
+.terramaterbloodbores: "Terra Mater Blood Bores" => "Plasma sanguin de Terra Mater"
+.holvaduellingblades: "Holva Duelling Blades" => "Lame de duel de Holva"
+.kamorinhistoricweapons: "Kamorin Historic Weapons" => "Armes historiques de Kamorin"
+.gilyasignatureweapons: "Gilya Signature Weapons" => "Armes personnalisées de Gilya"
+.deltaphoenicispalms: "Delta Phoenicis Palms" => "Palmiers de Delta Phoenicis"
+.toxandjivirocide: "Toxandji Virocide" => "Virocide Toandji"
+.xihecompanions: "Xihe Biomorphic Companions" => "Compagnons biomorphiques de Xihe"
+.sanumameat: "Sanuma Decorative Meat" => "Viande ornementale de Sanuma"
+.ethgrezeteabuds: "Ethgreze Tea Buds" => "Bourgeons de thé d'Ethgreze"
+.ceremonialheiketea: "Ceremonial Heike Tea" => "Thé de cérémonie de Heike"
+.tanmarktranquiltea: "Tanmark Tranquil Tea" => "Thé de la tranquilité de Tanmark"
+.azcancriformula42: "AZ Cancri Formula 42" => "Formule 42 d'AZ Cancri"
+.sothiscrystallinegold: "Sothis Crystalline Gold" => "Or cristallin de Sothis"
+.kamitracigars: "Kamitra Cigars" => "Cigares de Kamitra"
 .rusanioldsmokey: "Rusani Old Smokey" @
-.yasokondileaf: "Yaso Kondi Leaf" @
-.chateaudeaegaeon: "Chateau De Aegaeon" @
-.watersofshintara: "The Waters Of Shintara" @
-.ophiuchiexinoartefacts: "Ophiuch Exino Artefacts" @
-.bakedgreebles: "Baked Greebles" @
-.cetiaepyornisegg: "Aepyornis Egg" @
-.saxonwine: "Saxon Wine" @
-.centaurimegagin: "Centauri Mega Gin" @
-.anduligafireworks: "Anduliga Fire Works" @
-.bankiamphibiousleather: "Banki Amphibious Leather" @
-.cherbonesbloodcrystals: "Cherbones Blood Crystals" @
-.motronaexperiencejelly: "Motrona Experience Jelly" @
-.geawendancedust: "Geawen Dance Dust" @
-.gerasiangueuzebeer: "Gerasian Gueuze Beer" @
-.haidneblackbrew: "Haiden Black Brew" @
-.havasupaidreamcatcher: "Havasupai Dream Catcher" @
-.burnhambiledistillate: "Burnham Bile Distillate" @
-.hiporganophosphates: "Hip Organophosphates" @
-.jaradharrepuzzlebox: "Jaradharre Puzzle Box" @
-.korrokungpellets: "Koro Kung Pellets" @
-.lftvoidextractcoffee: "Void Extract Coffee" @
-.honestypills: "Honesty Pills" @
-.noneuclidianexotanks: "Non Euclidian Exotanks" @
-.ltthypersweet: "LTT Hyper Sweet" @
-.mechucoshightea: "Mechucos High Tea" @
-.medbstarlube: "Medb Starlube" @
-.mokojingbeastfeast: "Mokojing Beast Feast" @
-.mukusubiichitinos: "Mukusubii Chitin-os" @
-.mulachigiantfungus: "Mulachi Giant Fungus" @
-.ngadandarifireopals: "Ngadandari Fire Opals" @
-.tiegfriessynthsilk: "Tiegfries Synth Silk" @
-.uzumokulowgwings: "Uzumoku Low-G Wings" @
-.vherculisbodyrub: "V Herculis Body Rub" @
-.wheemetewheatcakes: "Wheemete Wheat Cakes" @
-.vegaslimweed: "Vega Slimweed" @
-.altairianskin: "Altairian Skin" @
-.pavoniseargrubs: "Pavonis Ear Grubs" @
-.jotunmookah: "Jotun Mookah" @
-.giantverrix: "Giant Verrix" @
-.indibourbon: "Indi Bourbon" @
-.aroucaconventualsweets: "Arouca Conventual Sweets" @
-.taurichimes: "Tauri Chimes" @
-.zeesszeantglue: "Zeessze Ant Grub Glue" @
-.pantaaprayersticks: "Pantaa Prayer Sticks" @
-.fujintea: "Fujin Tea" @
-.chameleoncloth: "Chameleon Cloth" @
-.orrerianviciousbrew: "Orrerian Vicious Brew" @
-.uszaiantreegrub: "Uszaian Tree Grub" @
-.momusbogspaniel: "Momus Bog Spaniel" @
-.disomacorn: "Diso Ma Corn" @
+.yasokondileaf: "Yaso Kondi Leaf" => "Feuille de Yaso Kondi"
+.chateaudeaegaeon: "Chateau De Aegaeon" => "Chateau Aegaeon"
+.watersofshintara: "The Waters Of Shintara" => "Eau de Shintara"
+.ophiuchiexinoartefacts: "Ophiuch Exino Artefacts" => "Artefacts Ophiuch Exino"
+.bakedgreebles: "Baked Greebles" => "Greebles cuites"
+.cetiaepyornisegg: "Aepyornis Egg" => "Œuf d'Aepyornis"
+.saxonwine: "Saxon Wine" => "Vin saxon"
+.centaurimegagin: "Centauri Mega Gin" => "Gin Centauri Mega"
+.anduligafireworks: "Anduliga Fire Works" => "Feux d'artifice d'Anduliga"
+.bankiamphibiousleather: "Banki Amphibious Leather" => "Cuir d'amphibien de Banki"
+.cherbonesbloodcrystals: "Cherbones Blood Crystals" => "Cristaux de sang de Cherbones"
+.motronaexperiencejelly: "Motrona Experience Jelly" => "Gelée d'expérience de Motrona"
+.geawendancedust: "Geawen Dance Dust" => "Poussière de danse Geawen"
+.gerasiangueuzebeer: "Gerasian Gueuze Beer" => "Gueuze gerasianne"
+.haidneblackbrew: "Haiden Black Brew" => "Tisane noire de Haiden"
+.havasupaidreamcatcher: "Havasupai Dream Catcher" => "Attrape-rêves Havasupai"
+.burnhambiledistillate: "Burnham Bile Distillate" => "Distillé bileux de Burnham"
+.hiporganophosphates: "Hip Organophosphates" => "Organophosphates de HIP"
+.jaradharrepuzzlebox: "Jaradharre Puzzle Box" => "Boîte de jeux de Jaradharre"
+.korrokungpellets: "Koro Kung Pellets" => "Boulettes Koro Kung"
+.lftvoidextractcoffee: "Void Extract Coffee" => "Café du néant"
+.honestypills: "Honesty Pills" => "Pillules d'honnêteté"
+.noneuclidianexotanks: "Non Euclidian Exotanks" => "Vivariums non euclidiens"
+.ltthypersweet: "LTT Hyper Sweet" => "Hyper sucre LTT"
+.mechucoshightea: "Mechucos High Tea" => "Haut thé de Mechucos"
+.medbstarlube: "Medb Starlube" => "Lubbrifiant stellaire Medb"
+.mokojingbeastfeast: "Mokojing Beast Feast" => "Céréanimales de Mokojing"
+.mukusubiichitinos: "Mukusubii Chitin-os" => "Os chitineux de Mukusubii"
+.mulachigiantfungus: "Mulachi Giant Fungus" => "Champignons géants de Mulachi"
+.ngadandarifireopals: "Ngadandari Fire Opals" => "Opales de feu de Ngadandari"
+.tiegfriessynthsilk: "Tiegfries Synth Silk" => "Soie synthétique de Tiegfries"
+.uzumokulowgwings: "Uzumoku Low-G Wings" => "Ailes à faible gravité Uzumoku"
+.vherculisbodyrub: "V Herculis Body Rub" => "Lotion de soir V Herculis"
+.wheemetewheatcakes: "Wheemete Wheat Cakes" => "Gâteaux de blé Wheemete"
+.vegaslimweed: "Vega Slimweed" => "Algues amincissantes de Vega"
+.altairianskin: "Altairian Skin" => "Peau d'Altaïr"
+.pavoniseargrubs: "Pavonis Ear Grubs" => "Larves Oreilles de Pavonis"
+.jotunmookah: "Jotun Mookah" => "Mookah de Jotun"
+.giantverrix: "Giant Verrix" => "Verrix géant"
+.indibourbon: "Indi Bourbon" => "Bourbon Indi"
+.aroucaconventualsweets: "Arouca Conventual Sweets" => "Bonbons monastiques d'Aruca"
+.taurichimes: "Tauri Chimes" => "Carillons taurins"
+.zeesszeantglue: "Zeessze Ant Grub Glue" => "Colle de larve de fourmi de Zeessze"
+.pantaaprayersticks: "Pantaa Prayer Sticks" => "Bâtonnets d'encens de Pantaa"
+.fujintea: "Fujin Tea" => "Thé de Fujin"
+.chameleoncloth: "Chameleon Cloth" => "Tissu caméléon"
+.orrerianviciousbrew: "Orrerian Vicious Brew" => "Vicieuse d'Orrere"
+.uszaiantreegrub: "Uszaian Tree Grub" => "Larve uszaienne"
+.momusbogspaniel: "Momus Bog Spaniel" => "Épagneul fangeux de Momus"
+.disomacorn: "Diso Ma Corn" => "Ma Corn de Diso"
 .leestianeviljuice: "Leestian Evil Juice" @
-.bluemilk: "Azure Milk" @
-.alieneggs: "Leathery Eggs" @
-.alyabodilysoap: "Alya Body Soap" @
-.vidavantianlace: "Vidavantian Lace" @
-.transgeniconionhead: "Lucan Onionhead" @
-.jaquesquinentianstill: "Jaques Quinentian Still" @
-.soontillrelics: "Soontill Relics" @
+.bluemilk: "Azure Milk" => "Lait d'Azure"
+.alieneggs: "Leathery Eggs" => "Œufs antiques"
+.alyabodilysoap: "Alya Body Soap" => "Savon corporel d'Alya"
+.vidavantianlace: "Vidavantian Lace" => "Dentelle vidavantienne"
+.transgeniconionhead: "Lucan Onionhead" => "Tête d'oignon lucane"
+.jaquesquinentianstill: "Jaques Quinentian Still" => "Brûlerie quinentienne de Jaques"
+.soontillrelics: "Soontill Relics" => "Reliques de Soontill"
 .onionheada: "Onionhead Alpha Strain" @
 .onionheadb: "Onionhead Beta Strain" @
 .galactictravelguide: "Galactic Travel Guide" @
@@ -650,7 +650,7 @@ SECTION MaterialCommodityData
 .undergroundsupport: "Grom Underground Support" @
 .gromcounterintelligence: "Grom Counter Intelligence" @
 .gromwartrophies: "Yuri Grom's Military Supplies" @
-.markedslaves: "Marked Slaves" @
+.markedslaves: "Marked Slaves" => "Esclaves marqués"
 .torvaldeeds: "Torval Deeds" @
 .drones: "Drones" @
 .guardian_vesselblueprint: "Guardian Vessel Blueprint Segment" => "Morceau de plan de vaisseau – Guardians"
