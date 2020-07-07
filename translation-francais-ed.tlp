@@ -26,7 +26,7 @@ SECTION Bodies
 .MOG: "M Red Giant" => "Naine rouge M"
 .KOG: "K Orange Giant" @
 .RP: "Rogue Planet" @
-.UNK: "Class {0} star" => "Etoile Classe {0}"
+.UNK: "Class {0} star" => "Étoile de classe {0}"
 .Herbig: "Herbig Ae/Be" @
 .TTauri: "T Tauri" @
 
@@ -110,15 +110,15 @@ EDPlanet.Unknown: "Unknown planet type" @
 SECTION MaterialCommodityData
 
 .Raw: "Raw" => "Brut"
-.VeryCommon: "Very Common" @
-.Common: "Common" @
-.Standard: "Standard" @
+.VeryCommon: "Very Common" => "Très courant"
+.Common: "Common" => "Courant"
+.Standard: "Standard" => "Standard"
 .Rare: "Rare" @
 .Encoded: "Encoded" => "Encodé"
 .VeryRare: "Very Rare" => "Très rare"
 .Manufactured: "Manufactured" => "Manufacturés"
 .Commodity: "Commodity" => Marchandise"
-.Salvage: "Salvage" => "Feraille"
+.Salvage: "Salvage" => "Ferraille"
 .Chemicals: "Chemicals" => "Produits chimiques"
 .ConsumerItems: "Consumer Items" => "Produits de consommation"
 .Foods: "Foods" => "Alimentation"
@@ -602,56 +602,56 @@ SECTION MaterialCommodityData
 .transgeniconionhead: "Lucan Onionhead" => "Tête d'oignon lucane"
 .jaquesquinentianstill: "Jaques Quinentian Still" => "Brûlerie quinentienne de Jaques"
 .soontillrelics: "Soontill Relics" => "Reliques de Soontill"
-.onionheada: "Onionhead Alpha Strain" @
-.onionheadb: "Onionhead Beta Strain" @
-.galactictravelguide: "Galactic Travel Guide" @
-.animaleffigies: "Crom Silver Fesh" @
-.shanscharisorchid: "Shan's Charis Orchid" @
-.buckyballbeermats: "Buckyball Beer Mats" @
-.masterchefs: "Master Chefs" @
-.personalgifts: "Personal Gifts" @
-.crystallinespheres: "Crystalline Spheres" @
-.advert1: "Ultra-Compact Processor Prototypes" @
-.harmasilversearum: "Harma Silver Sea Rum" @
+.onionheada: "Onionhead Alpha Strain" => "Variété alpha de tête d'oignon"
+.onionheadb: "Onionhead Beta Strain" => "Variété bêta de tête d'oignon
+.galactictravelguide: "Galactic Travel Guide" => "Guide de voyage galactique"
+.animaleffigies: "Crom Silver Fesh" => "Fesh argenté de Crom"
+.shanscharisorchid: "Shan's Charis Orchid" => "Orchidée Shan Charis"
+.buckyballbeermats: "Buckyball Beer Mats" => "Sous-bocks Buckyball"
+.masterchefs: "Master Chefs" => "Spartan-chefs"
+.personalgifts: "Personal Gifts" => "Cadeaux personnels"
+.crystallinespheres: "Crystalline Spheres" => "Sphères cristallines"
+.advert1: "Ultra-Compact Processor Prototypes" => "Prototypes de Processeurs ultra-compacts"
+.harmasilversearum: "Harma Silver Sea Rum" => "Rhum marin Harma Silver"
 .earthrelics: "Earth Relics" => "Reliques de la Terre"
-.aislingmediamaterials: "Aisling Media Materials" @
-.aislingmediaresources: "Aisling Sealed Contracts" @
-.aislingpromotionalmaterials: "Aisling Programme Materials" @
-.alliancetradeagreements: "Alliance Trade Agreements" @
-.alliancelegaslativecontracts: "Alliance Legislative Contracts" @
-.alliancelegaslativerecords: "Alliance Legislative Records" @
-.lavignycorruptiondossiers: "Lavigny Corruption Reports" @
-.lavignyfieldsupplies: "Lavigny Field Supplies" @
-.lavignygarisonsupplies: "Lavigny Garrison Supplies" @
-.restrictedpackage: "Core Restricted Package" @
-.liberalcampaignmaterials: "Liberal Propaganda" @
-.federalaid: "Liberal Federal Aid" @
-.federaltradecontracts: "Liberal Federal Packages" @
-.loanedarms: "Marked Military Arms" @
-.patreusfieldsupplies: "Patreus Field Supplies" @
-.patreusgarisonsupplies: "Patreus Garrison Supplies" @
-.restrictedintel: "Hudson's Restricted Intel" @
-.republicanfieldsupplies: "Hudson's Field Supplies" @
-.republicangarisonsupplies: "Hudson Garrison Supplies" @
-.siriusfranchisepackage: "Sirius Franchise Package" @
-.siriuscommercialcontracts: "Sirius Corporate Contracts" @
-.siriusindustrialequipment: "Sirius Industrial Equipment" @
-.torvalcommercialcontracts: "Torval Trade Agreements" @
-.imperialprisoner: "Torval Political Prisoners" @
-.utopianpublicity: "Utopian Publicity" @
-.utopianfieldsupplies: "Utopian Supplies" @
-.utopiandissident: "Utopian Dissident" @
-.illicitconsignment: "Kumo Contraband Package" @
-.unmarkedweapons: "Unmarked Military supplies" @
-.onionheadsamples: "Onionhead Samples" @
-.counterculturesupport: "Revolutionary supplies" @
-.onionheadderivatives: "Onionhead Derivatives" @
-.outofdategoods: "Out Of Date Goods" @
-.undergroundsupport: "Grom Underground Support" @
-.gromcounterintelligence: "Grom Counter Intelligence" @
-.gromwartrophies: "Yuri Grom's Military Supplies" @
+.aislingmediamaterials: "Aisling Media Materials" => "Dossiers de presse d'Aisling"
+.aislingmediaresources: "Aisling Sealed Contracts" => "Contrats sous scellés d'Aisling"
+.aislingpromotionalmaterials: "Aisling Programme Materials" => "Programmes d'Aisling"
+.alliancetradeagreements: "Alliance Trade Agreements" => "Accords commerciaux de l'Alliance"
+.alliancelegaslativecontracts: "Alliance Legislative Contracts" => "Accords législatifs de l'Alliance"
+.alliancelegaslativerecords: "Alliance Legislative Records" => "Dossiers législatifs de l'Alliance"
+.lavignycorruptiondossiers: "Lavigny Corruption Reports" => "Rapports de corruption d'Arissa"
+.lavignyfieldsupplies: "Lavigny Field Supplies" => "Ravitaillement militaire d'Arissa"
+.lavignygarisonsupplies: "Lavigny Garrison Supplies" => "Ravitaillement de garnison d'Arissa"
+.restrictedpackage: "Core Restricted Package" => "Colis scellés Core Holding"
+.liberalcampaignmaterials: "Liberal Propaganda" => "Programmes libéraux"
+.federalaid: "Liberal Federal Aid" => "Cargaisons d'aide humanitaire libérales"
+.federaltradecontracts: "Liberal Federal Packages" => "Colis fédéraux libéraux"
+.loanedarms: "Marked Military Arms" => "Armes militaires marquées"
+.patreusfieldsupplies: "Patreus Field Supplies" => "Ravitaillement militaire de Patreus"
+.patreusgarisonsupplies: "Patreus Garrison Supplies" => "Ravitaillement de garnison de Patreus"
+.restrictedintel: "Hudson's Restricted Intel" => "Renseignements confidentiels de Hudson"
+.republicanfieldsupplies: "Hudson's Field Supplies" => "Ravitaillement militaire de Hudson"
+.republicangarisonsupplies: "Hudson Garrison Supplies" => "Ravitaillement de garnison de Hudson"
+.siriusfranchisepackage: "Sirius Franchise Package" => "Dossiers marketing de Sirius"
+.siriuscommercialcontracts: "Sirius Corporate Contracts" => "Contrats de Sirius"
+.siriusindustrialequipment: "Sirius Industrial Equipment" => "Équipement industriel de Sirius"
+.torvalcommercialcontracts: "Torval Trade Agreements" => "Accords commerciaux de Torval"
+.imperialprisoner: "Torval Political Prisoners" => "Prisonniers politiques de Torval"
+.utopianpublicity: "Utopian Publicity" => "Pamphlets d'Utopia"
+.utopianfieldsupplies: "Utopian Supplies" => "Marchandises d'Utopia"
+.utopiandissident: "Utopian Dissident" => "Dissidents d'Utopia"
+.illicitconsignment: "Kumo Contraband Package" => "Marchandises de contrebande de Kumo"
+.unmarkedweapons: "Unmarked Military supplies" => "Surplus militaire banalisé"
+.onionheadsamples: "Onionhead Samples" => "Échantillons de tête d'oignon"
+.counterculturesupport: "Revolutionary supplies" => "Matériel révolutionnaire"
+.onionheadderivatives: "Onionhead Derivatives" => "Produits dérivés à base de tête d'oignon"
+.outofdategoods: "Out Of Date Goods" => "Marchandises périmées"
+.undergroundsupport: "Grom Underground Support" => "Ravitaillement clandestin de Grom"
+.gromcounterintelligence: "Grom Counter Intelligence" => "Renseignements militaires de Grom"
+.gromwartrophies: "Yuri Grom's Military Supplies" => "Fournitures militaires de Yuri Grom"
 .markedslaves: "Marked Slaves" => "Esclaves marqués"
-.torvaldeeds: "Torval Deeds" @
+.torvaldeeds: "Torval Deeds" => "Actes juridiques de Torval"
 .drones: "Drones" @
 .guardian_vesselblueprint: "Guardian Vessel Blueprint Segment" => "Morceau de plan de vaisseau – Guardians"
 .duradrives: "Duradrives" @
@@ -666,7 +666,7 @@ SECTION MaterialCommodityData
 .opal: "Opal" @
 .thargoidtissuesampletype4: "Thargoid Hydra Tissue Sample" => "Échantillon de tissu thargoid – Hydra"
 .ancientkey: "Ancient Key" => "Clé antique"
-.rockforthfertiliser: "Rockforth Fertiliser" @
+.rockforthfertiliser: "Rockforth Fertiliser" => "Fertilisant Rockforth"
 .agronomictreatment: "Agronomic Treatment" => "Traitement agronnomique"
 .m_tissuesample_soft: "Mollusc Soft Tissue" @
 .s_tissuesample_cells: "Pod Core Tissue" @
@@ -678,29 +678,29 @@ SECTION MaterialCommodityData
 .s6_tissuesample_coenosarc: "Pod Shell Tissue" @
 .apavietii: "Apa Vietii" @
 
-.RawCategory1: "Raw Category 1" @
-.RawCategory2: "Raw Category 2" @
-.RawCategory3: "Raw Category 3" @
-.RawCategory4: "Raw Category 4" @
-.RawCategory5: "Raw Category 5" @
-.RawCategory6: "Raw Category 6" @
-.RawCategory7: "Raw Category 7" @
-.EncodedEmissionData: "Encoded Emission Data" @
-.EncodedWakeScans: "Encoded Wake Scans" @
-.EncodedShieldData: "Encoded Shield Data" @
-.EncodedEncryptionFiles: "Encoded Encryption Files" @
-.EncodedDataArchives: "Encoded Data Archives" @
-.EncodedFirmware: "Encoded Firmware" @
-.ManufacturedChemical: "Manufactured Chemical" @
-.ManufacturedThermic: "Manufactured Thermic" @
-.ManufacturedHeat: "Manufactured Heat" @
-.ManufacturedConductive: "Manufactured Conductive" @
-.ManufacturedMechanicalComponents: "Manufactured Mechanical Components" @
-.ManufacturedCapacitors: "Manufactured Capacitors" @
-.ManufacturedShielding: "Manufactured Shielding" @
-.ManufacturedComposite: "Manufactured Composite" @
-.ManufacturedCrystals: "Manufactured Crystals" @
-.ManufacturedAlloys: "Manufactured Alloys" @
+.RawCategory1: "Raw Category 1" => "Cat. Brut 1"
+.RawCategory2: "Raw Category 2" => "Cat. Brut 2" 
+.RawCategory3: "Raw Category 3" => "Cat. Brut 3"
+.RawCategory4: "Raw Category 4" => "Cat. Brut 4"
+.RawCategory5: "Raw Category 5" => "Cat. Brut 5"
+.RawCategory6: "Raw Category 6" => "Cat. Brut 6"
+.RawCategory7: "Raw Category 7" => "Cat. Brut 7"
+.EncodedEmissionData: "Encoded Emission Data" => "Données d'émission encodées"
+.EncodedWakeScans: "Encoded Wake Scans" => "Scans de sillage encodés"
+.EncodedShieldData: "Encoded Shield Data" => "Données de bouclier encodées"
+.EncodedEncryptionFiles: "Encoded Encryption Files" => "Fichiers cryptés encodés"
+.EncodedDataArchives: "Encoded Data Archives" => "Archives encodées"
+.EncodedFirmware: "Encoded Firmware" => "Micrologiciel encodé"
+.ManufacturedChemical: "Manufactured Chemical" => "Produit chimique manufacturé"
+.ManufacturedThermic: "Manufactured Thermic" => "<Manufactured Thermic>"
+.ManufacturedHeat: "Manufactured Heat" => "<Manufactured Heat>"
+.ManufacturedConductive: "Manufactured Conductive" => "Conducteur manufacturé"
+.ManufacturedMechanicalComponents: "Manufactured Mechanical Components" => "Composants mécaniques manufacturés"
+.ManufacturedCapacitors: "Manufactured Capacitors" => "Condensateurs manufacturés"
+.ManufacturedShielding: "Manufactured Shielding" => "Protection manufacturée"
+.ManufacturedComposite: "Manufactured Composite" => "Composite manufacturé"
+.ManufacturedCrystals: "Manufactured Crystals" => "Cristaux manufacturés"
+.ManufacturedAlloys: "Manufactured Alloys" => "Alliages mannufacturés"
 .NA: "NA" @
 
 SECTION EngineeringData

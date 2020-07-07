@@ -1314,53 +1314,53 @@ SECTION UserControlContainerSplitter
 
 SECTION UserControlTravelGrid
 
-.THF: "History: Filter out fields" @
-.ColumnTime: "Time" @
-.Icon: "Event" @
+.THF: "History: Filter out fields" => "Historique : Filtrer les champs"
+.ColumnTime: "Time" => "Heure"
+.Icon: "Event" => "Événement"
 .ColumnSystem: "Description" @
 .ColumnDistance: "Information" @
 .ColumnNote: "Note" @
-.checkBoxMoveToTop: "Cursor to Top" @
-.labelSearch: "Search" @
-.labelTime: "Time" @
-.removeSortingOfColumnsToolStripMenuItem: "Remove Sorting of Columns" @
-.gotoEntryNumberToolStripMenuItem: "Jump to Entry" @
-.setNoteToolStripMenuItem: "Set Note" @
-.createEditBookmarkToolStripMenuItem: "Create/Edit Bookmark" @
-.toolStripMenuItemStartStop: "Set Start/Stop point for travel calculations" @
-.gotoNextStartStopMarkerToolStripMenuItem: "Jump to next Start/Stop marker" @
-.mapGotoStartoolStripMenuItem: "Go to star on 3D Map" @
-.viewOnEDSMToolStripMenuItem: "View on EDSM" @
-.starMapColourToolStripMenuItem: "Star Map Colour..." @
-.addToTrilaterationToolStripMenuItem: "Add to ..." @
-.addToTrilaterationToolStripMenuItem.trilaterationToolStripMenuItem: "System on Trilateration Panel" @
+.checkBoxMoveToTop: "Cursor to Top" => "Curseur en haut"
+.labelSearch: "Search" => "Recherche"
+.labelTime: "Time" => "Heure"
+.removeSortingOfColumnsToolStripMenuItem: "Remove Sorting of Columns" => "Supprimer le tri des colonnes"
+.gotoEntryNumberToolStripMenuItem: "Jump to Entry" => "Aller à l'entrée"
+.setNoteToolStripMenuItem: "Set Note" => "Saisir une note"
+.createEditBookmarkToolStripMenuItem: "Create/Edit Bookmark" => "Créer/Mofifier un marque-page"
+.toolStripMenuItemStartStop: "Set Start/Stop point for travel calculations" => "Définir le point de début/fin pour le calcul de voyage"
+.gotoNextStartStopMarkerToolStripMenuItem: "Jump to next Start/Stop marker" => "Aller au prochain marqueur début/fin"
+.mapGotoStartoolStripMenuItem: "Go to star on 3D Map" => "Aller à l'étoile sur la carte 3D"
+.viewOnEDSMToolStripMenuItem: "View on EDSM" => "Afficher sur EDSM"
+.starMapColourToolStripMenuItem: "Star Map Colour..." => "Couleur de la carte stellaire..."
+.addToTrilaterationToolStripMenuItem: "Add to ..." => "Ajouter à..."
+.addToTrilaterationToolStripMenuItem.trilaterationToolStripMenuItem: "System on Trilateration Panel" => "Système sur le panneau de trilatération"
 .addToTrilaterationToolStripMenuItem.wantedSystemsToolStripMenuItem: "Wanted Systems on Trilateration Panel" @
-.addToTrilaterationToolStripMenuItem.bothToolStripMenuItem: "Both of the above" @
-.addToTrilaterationToolStripMenuItem.routeToolStripMenuItem: "Expedition Panel" @
-.moveToAnotherCommanderToolStripMenuItem: "Move Entries to another Commander" @
-.hideSystemToolStripMenuItem: "Hide Entries" @
-.selectCorrectSystemToolStripMenuItem: "Assign new system" @
-.removeJournalEntryToolStripMenuItem: "Remove Journal Entry" @
-.sendUnsyncedScanToEDDNToolStripMenuItem: "Send unsynced scan to EDDN" @
-.runActionsOnThisEntryToolStripMenuItem: "Run Actions on this entry" @
-.copyJournalEntryToClipboardToolStripMenuItem: "Copy journal entry to clipboard/Log" @
-.writeEventInfoToLogDebugToolStripMenuItem: "Write event class info to Log (Debug)" @
-.runActionsAcrossSelectionToolSpeechStripMenuItem: "Run actions across selection for speech debugging (Debug)" @
-.runSelectionThroughInaraSystemToolStripMenuItem: "Run selection through Inara System (Debug)" @
-.runEntryThroughProfileSystemToolStripMenuItem: "Run entry through Profile System (Debug)" @
-.TT1: " showing {0} original {1}" @
-.TTFilt1: "Filtered {0}" @
-.TTSelAge: "Select the entries by age, " @
-.TTFilt2: "Filtered {0}" @
-.TTEvent: "Filter out entries based on event type, " @
-.TTFilt3: "Total filtered out {0}" @
-.TTTotal: "Filter out entries matching the field selection, " @
-.CSTART: "Clear Start marker" @
-.CSTOP: "Clear Stop marker" @
-.SETSTOPTC: "Set Stop marker for travel calculations" @
-.SETSTARTTC: "Set Start marker for travel calculations" @
-.SETSTSTOP: "Set Start/Stop point for travel calculations" @
-.NotSynced: "System could not be found - has not been synched or EDSM is unavailable" @
+.addToTrilaterationToolStripMenuItem.bothToolStripMenuItem: "Both of the above" => "Les deux options du dessus"
+.addToTrilaterationToolStripMenuItem.routeToolStripMenuItem: "Expedition Panel" => "Panneau d'expédition"
+.moveToAnotherCommanderToolStripMenuItem: "Move Entries to another Commander" => "Déplacer les entrées vers un autre commandnant"
+.hideSystemToolStripMenuItem: "Hide Entries" => "MAsquer les entrées"
+.selectCorrectSystemToolStripMenuItem: "Assign new system" => "Assigner un nouveau système"
+.removeJournalEntryToolStripMenuItem: "Remove Journal Entry" => "Supprimer l'entrée du journal"
+.sendUnsyncedScanToEDDNToolStripMenuItem: "Send unsynced scan to EDDN" => "Ennvoyer les scan non synchronisés vers EDSM"
+.runActionsOnThisEntryToolStripMenuItem: "Run Actions on this entry" => "Effectuer des actions sur cette entrée"
+.copyJournalEntryToClipboardToolStripMenuItem: "Copy journal entry to clipboard/Log" => "Copier l'entrée du journal dans le presse-papier/log"
+.writeEventInfoToLogDebugToolStripMenuItem: "Write event class info to Log (Debug)" => "Écrire la classe d'événement dans le log (debug)"
+.runActionsAcrossSelectionToolSpeechStripMenuItem: "Run actions across selection for speech debugging (Debug)" => "Éxécution des actions dans la selection pour débug vocal (debug)"
+.runSelectionThroughInaraSystemToolStripMenuItem: "Run selection through Inara System (Debug)" => "Éxécution de la selection via le système d'Inara (Debug)"
+.runEntryThroughProfileSystemToolStripMenuItem: "Run entry through Profile System (Debug)" => "Éxécuter l'entrée via le système de profil (Debug)" 
+.TT1: " showing {0} original {1}" => " affiche {0} original {1}"
+.TTFilt1: "Filtered {0}" => "Filtre {0}"
+.TTSelAge: "Select the entries by age, " => "Selection des entrées par âge, "
+.TTFilt2: "Filtered {0}" => "Filtre {0}"
+.TTEvent: "Filter out entries based on event type, " => "Filtre des entrées par type d'événement, "
+.TTFilt3: "Total filtered out {0}" => "Total filtrés {0}"
+.TTTotal: "Filter out entries matching the field selection, " => "Filtre les entrées correspondantes à la selection de champs, "
+.CSTART: "Clear Start marker" => "Supprimer le marqueur de début"
+.CSTOP: "Clear Stop marker" => "Supprimer le marqueur de fin"
+.SETSTOPTC: "Set Stop marker for travel calculations" => "Définir le marqueur de fin pour le calcul d'itinéraire"
+.SETSTARTTC: "Set Start marker for travel calculations" => "Définir le marqueur de début pour le calcul d'itinéraire"
+.SETSTSTOP: "Set Start/Stop point for travel calculations" => "Définir les marqueurs de début/fin pour le calcul d'itinéraire"
+.NotSynced: "System could not be found - has not been synched or EDSM is unavailable" => "Système introuvable - n'a pas été synchronisé ou EDSM est indisponible"
 .NOLOC: "Could not find Location or FSDJump entry associated with selected journal entry" @
 .Remove: "Confirm you wish to remove this entry\r\nIt may reappear if the logs are rescanned" @
 .extCheckBoxOutlines.ToolTip: "Control Outlining" @
