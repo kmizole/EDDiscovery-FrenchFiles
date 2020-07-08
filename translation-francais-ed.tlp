@@ -4,12 +4,12 @@ SECTION Bodies
 .HMS: "Luminous Hot Main Sequence {0} star" @
 .BMS: "Luminous Blue Main Sequence {0} star" @
 .BWMS: "Bluish-White Main Sequence {0} star" @
-.WMS: "White Main Sequence {0} star" @
-.YMS: "Yellow Main Sequence {0} star" @
-.OMS: "Orange Main Sequence {0} star" @
-.RMS: "Red Main Sequence {0} star" @
-.DRNS: "Dark Red Non Main Sequence {0} star" @
-.MD: "Methane Dwarf star" @
+.WMS: "White Main Sequence {0} star" => "Étoile Blanche {0}"
+.YMS: "Yellow Main Sequence {0} star" => "Étoile blanc-jaune {0}"
+.OMS: "Orange Main Sequence {0} star" => "Étoile Jaune-Orange {0}"
+.RMS: "Red Main Sequence {0} star" => "Naine Rouge {0}"
+.DRNS: "Dark Red Non Main Sequence {0} star" => "Naine Brune {0}"
+.MD: "Methane Dwarf star" => "Naine Brune T"
 .BD: "Brown Dwarf star" => "Naine Brune"
 .WR: "Wolf-Rayet {0} star" @
 .C: "Carbon {0} star" @
@@ -26,9 +26,9 @@ SECTION Bodies
 .MOG: "M Red Giant" => "Naine rouge M"
 .KOG: "K Orange Giant" @
 .RP: "Rogue Planet" @
-.UNK: "Class {0} star" => "Étoile de classe {0}"
+.UNK: "Class {0} star" => "Étoile {0}"
 .Herbig: "Herbig Ae/Be" @
-.TTauri: "T Tauri" @
+.TTauri: "T Tauri" => "Étoile T Tauri"
 
 
 Section EDStar
@@ -87,25 +87,25 @@ EDStar.Unknown: "Unknown star type" @
 Section EDPlanet
 
 EDPlanet.Metalrichbody: "Metal-rich body" @
-EDPlanet.Highmetalcontentbody: "High metal content world" @
-EDPlanet.Rockybody: "Rocky body" @
-EDPlanet.Icybody: "Icy body" @
-EDPlanet.Rockyicebody: "Rocky ice world" @
-EDPlanet.Earthlikebody: "Earth-like world" @
-EDPlanet.Waterworld: "Water world" @
+EDPlanet.Highmetalcontentbody: "High metal content world" => "Monde abondant en métaux"
+EDPlanet.Rockybody: "Rocky body" => "Monde rocheux"
+EDPlanet.Icybody: "Icy body" => "Monde glacé"
+EDPlanet.Rockyicebody: "Rocky ice world" => "Monde rocheux gelé"
+EDPlanet.Earthlikebody: "Earth-like world" => "Monde Tellurique"
+EDPlanet.Waterworld: "Water world" => "Monde aquatique"
 EDPlanet.Ammoniaworld: "Ammonia world" @
-EDPlanet.Watergiant: "Water giant" @
+EDPlanet.Watergiant: "Water giant" => "Géante aquatique"
 EDPlanet.Watergiantwithlife: "Water giant with life" @
 EDPlanet.Gasgiantwithwaterbasedlife: "Gas giant with water-based life" @
-EDPlanet.Gasgiantwithammoniabasedlife: "Gas giant with ammonia-based life" @
-EDPlanet.SudarskyclassIgasgiant: "Class I gas giant" @
-EDPlanet.SudarskyclassIIgasgiant: "Class II gas giant" @
-EDPlanet.SudarskyclassIIIgasgiant: "Class III gas giant" @
-EDPlanet.SudarskyclassIVgasgiant: "Class IV gas giant" @
-EDPlanet.SudarskyclassVgasgiant: "Class V gas giant" @
-EDPlanet.Heliumrichgasgiant: "Helium-rich gas giant" @
+EDPlanet.Gasgiantwithammoniabasedlife: "Gas giant with ammonia-based life" => "Géante gazeuse à la vie basée sur l'amoniaque"
+EDPlanet.SudarskyclassIgasgiant: "Class I gas giant" => "Géante gazeuse de classe I"
+EDPlanet.SudarskyclassIIgasgiant: "Class II gas giant" => "Géante gazeuse de classe II"
+EDPlanet.SudarskyclassIIIgasgiant: "Class III gas giant" => "Géante gazeuse de classe III"
+EDPlanet.SudarskyclassIVgasgiant: "Class IV gas giant" => "Géante gazeuse de classe IV"
+EDPlanet.SudarskyclassVgasgiant: "Class V gas giant" => "Géante gazeuse de classe V"
+EDPlanet.Heliumrichgasgiant: "Helium-rich gas giant" => "Géante gazeuse riche en Hélium"
 EDPlanet.Heliumgasgiant: "Helium gas giant" @
-EDPlanet.Unknown: "Unknown planet type" @
+EDPlanet.Unknown: "Unknown planet type" => "Type de planète inconnu"
 
 SECTION MaterialCommodityData
 

@@ -1338,7 +1338,7 @@ SECTION UserControlTravelGrid
 .addToTrilaterationToolStripMenuItem.bothToolStripMenuItem: "Both of the above" => "Les deux options du dessus"
 .addToTrilaterationToolStripMenuItem.routeToolStripMenuItem: "Expedition Panel" => "Panneau d'expédition"
 .moveToAnotherCommanderToolStripMenuItem: "Move Entries to another Commander" => "Déplacer les entrées vers un autre commandnant"
-.hideSystemToolStripMenuItem: "Hide Entries" => "MAsquer les entrées"
+.hideSystemToolStripMenuItem: "Hide Entries" => "Masquer les entrées"
 .selectCorrectSystemToolStripMenuItem: "Assign new system" => "Assigner un nouveau système"
 .removeJournalEntryToolStripMenuItem: "Remove Journal Entry" => "Supprimer l'entrée du journal"
 .sendUnsyncedScanToEDDNToolStripMenuItem: "Send unsynced scan to EDDN" => "Ennvoyer les scan non synchronisés vers EDSM"
