@@ -191,7 +191,7 @@ SECTION UserControlExpedition
 .buttonReverseRoute: "Reverse" => "Inverser"
 .labelEndDate: "End Date:" => "Date de fin:"
 .labelDateStart: "Start Date:" => "Date de début:"
-.labelRouteName: "Route Name:" => "Nom de la itinéraire:"
+.labelRouteName: "Route Name:" => "Nom de l'itinéraire:"
 .toolStripButtonNew: "New Route" => "Nouvel itinéraire"
 .toolStripButtonImportFile: "Import file" => "Importer fichier"
 .toolStripButtonImportRoute: "Import route" => "Importer itinéraire"
