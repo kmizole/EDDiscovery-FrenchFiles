@@ -1,9 +1,9 @@
 ﻿
 SECTION Bodies
 
-.HMS: "Luminous Hot Main Sequence {0} star" @
-.BMS: "Luminous Blue Main Sequence {0} star" @
-.BWMS: "Bluish-White Main Sequence {0} star" @
+.HMS: "Luminous Hot Main Sequence {0} star" => "Étoile chaude {0}"
+.BMS: "Luminous Blue Main Sequence {0} star" => "Étoile froide {0}"
+.BWMS: "Bluish-White Main Sequence {0} star" => "Étoile bleu-blanc {0}"
 .WMS: "White Main Sequence {0} star" => "Étoile Blanche {0}"
 .YMS: "Yellow Main Sequence {0} star" => "Étoile blanc-jaune {0}"
 .OMS: "Orange Main Sequence {0} star" => "Étoile Jaune-Orange {0}"
@@ -11,92 +11,92 @@ SECTION Bodies
 .DRNS: "Dark Red Non Main Sequence {0} star" => "Naine Brune {0}"
 .MD: "Methane Dwarf star" => "Naine Brune T"
 .BD: "Brown Dwarf star" => "Naine Brune"
-.WR: "Wolf-Rayet {0} star" @
-.C: "Carbon {0} star" @
+.WR: "Wolf-Rayet {0} star" => "Étoile Wolf-Rayet {0}"
+.C: "Carbon {0} star" => "Étoile carbonée"
 .IZ: "Intermediate low Zirconium Monoxide Type star" @
 .CGZ: "Cool Giant Zirconium Monoxide rich Type star" @
-.WD: "White Dwarf {0} star" @
-.NS: "Neutron Star" @
+.WD: "White Dwarf {0} star" => "Naine Blanche {0}"
+.NS: "Neutron Star" => "Étoile à neutrons"
 .BH: "Black Hole" => "Trou noir"
-.EX: "Exotic" @
-.SMBH: "Super Massive Black Hole" @
-.BSG: "Blue White Super Giant" @
-.WSG: "F White Super Giant" @
-.MSR: "M Red Super Giant" @
+.EX: "Exotic" => "Étoile exotique"
+.SMBH: "Super Massive Black Hole" => "Trou noir supermassif"
+.BSG: "Blue White Super Giant" => "Supergéante bleu-blanc"
+.WSG: "F White Super Giant" => "Supergéante blanche F"
+.MSR: "M Red Super Giant" => "Supergéante rouge M"
 .MOG: "M Red Giant" => "Naine rouge M"
-.KOG: "K Orange Giant" @
-.RP: "Rogue Planet" @
+.KOG: "K Orange Giant" => "Géante jaune-orange K"
+.RP: "Rogue Planet" => "Objet libre de masse planétaire"
 .UNK: "Class {0} star" => "Étoile {0}"
-.Herbig: "Herbig Ae/Be" @
+.Herbig: "Herbig Ae/Be" => "Objet Herbig-Haro"
 .TTauri: "T Tauri" => "Étoile T Tauri"
 
 
 Section EDStar
 
-EDStar.O: "O (Blue-White) Star" @
-EDStar.B: "B (Blue-White) Star" @
-EDStar.BBlueWhiteSuperGiant: "B (Blue-White super giant) Star" @
-EDStar.A: "A (Blue-White) Star" @
-EDStar.ABlueWhiteSuperGiant: "A (Blue-White super giant) Star" @
-EDStar.F: "F (White) Star" @
-EDStar.FWhiteSuperGiant: "F (White super giant) Star" @
-EDStar.G: "G (White-Yellow) Star" @
-EDStar.GWhiteSuperGiant: "G (White-Yellow super giant) Star" @
-EDStar.K: "K (Yellow-Orange) Star" @
-EDStar.KOrangeGiant: "K (Yellow-Orange giant) Star" @
-EDStar.M: "M (Red dwarf) Star" @
-EDStar.MRedGiant: "M (Red giant) Star" @
-EDStar.MRedSuperGiant: "M (Red super giant) Star" @
-EDStar.L: "L (Brown dwarf) Star" @
-EDStar.T: "T (Brown dwarf) Star" @
-EDStar.Y: "Y (Brown dwarf) Star" @
-EDStar.TTS: "T Tauri Star" @
-EDStar.AeBe: "Herbig Ae/Be Star" @
-EDStar.W: "Wolf-Rayet Star" @
-EDStar.WN: "Wolf-Rayet N Star" @
-EDStar.WNC: "Wolf-Rayet NC Star" @
-EDStar.WC: "Wolf-Rayet C Star" @
-EDStar.WO: "Wolf-Rayet O Star" @
-EDStar.CS: "CS Star" @
-EDStar.C: "C Star" @
-EDStar.CN: "CN Star" @
-EDStar.CJ: "CJ Star" @
-EDStar.CHd: "CHd Star" @
-EDStar.MS: "MS-type Star" @
-EDStar.S: "S-type Star" @
-EDStar.D: "White Dwarf (D) Star" @
-EDStar.DA: "White Dwarf (DA) Star" @
-EDStar.DAB: "White Dwarf (DAB) Star" @
-EDStar.DAO: "White Dwarf (DAO) Star" @
-EDStar.DAZ: "White Dwarf (DAZ) Star" @
-EDStar.DAV: "White Dwarf (DAV) Star" @
-EDStar.DB: "White Dwarf (DB) Star" @
-EDStar.DBZ: "White Dwarf (DBZ) Star" @
-EDStar.DBV: "White Dwarf (DBV) Star" @
-EDStar.DO: "White Dwarf (DO) Star" @
-EDStar.DOV: "White Dwarf (DOV) Star" @
-EDStar.DQ: "White Dwarf (DQ) Star" @
-EDStar.DC: "White Dwarf (DC) Star" @
-EDStar.DCV: "White Dwarf (DCV) Star" @
-EDStar.DX: "White Dwarf (DX) Star" @
-EDStar.N: "Neutron Star" @
-EDStar.H: "Black Hole" @
-EDStar.SuperMassiveBlackHole: "Supermassive Black Hole" @
-EDStar.Unknown: "Unknown star type" @
+EDStar.O: "O (Blue-White) Star" => "Étoile bleu-blanc O"
+EDStar.B: "B (Blue-White) Star" => "Étoile bleu-blanc B"
+EDStar.BBlueWhiteSuperGiant: "B (Blue-White super giant) Star" => "Supergéante bleu-blanc B"
+EDStar.A: "A (Blue-White) Star" => "Étoile bleu-blanc A"
+EDStar.ABlueWhiteSuperGiant: "A (Blue-White super giant) Star" => "Supergéante bleu blanc A"
+EDStar.F: "F (White) Star" => "Étoile blanche F"
+EDStar.FWhiteSuperGiant: "F (White super giant) Star" => "Supergéante blanche F"
+EDStar.G: "G (White-Yellow) Star" => "Étoile blanc-jaune G"
+EDStar.GWhiteSuperGiant: "G (White-Yellow super giant) Star" => "Supergéante blanc-jaune G"
+EDStar.K: "K (Yellow-Orange) Star" => "Étoile jaune-orange K"
+EDStar.KOrangeGiant: "K (Yellow-Orange giant) Star" => "Géante jaune-orange K"
+EDStar.M: "M (Red dwarf) Star" => "Naine rouge M"
+EDStar.MRedGiant: "M (Red giant) Star" => "Géante rouge M"
+EDStar.MRedSuperGiant: "M (Red super giant) Star" => "Supergéante rouge M"
+EDStar.L: "L (Brown dwarf) Star" => "Naine brune L"
+EDStar.T: "T (Brown dwarf) Star" => "Naine brune T"
+EDStar.Y: "Y (Brown dwarf) Star" => "Naine brune Y"
+EDStar.TTS: "T Tauri Star" => "Étoile T Tauri"
+EDStar.AeBe: "Herbig Ae/Be Star" => "Objet Herbig-Haro"
+EDStar.W: "Wolf-Rayet Star" => "Étoile Wolf-Rayet"
+EDStar.WN: "Wolf-Rayet N Star" => "Étoile Wolf-Rayet N"
+EDStar.WNC: "Wolf-Rayet NC Star" => "Étoile Wolf-Rayet NC"
+EDStar.WC: "Wolf-Rayet C Star" => "Étoile Wolf-Rayet C"
+EDStar.WO: "Wolf-Rayet O Star" => "Étoile Wolf-Rayet O"
+EDStar.CS: "CS Star" => "Étoile CS"
+EDStar.C: "C Star" => "Étoile C"
+EDStar.CN: "CN Star" => "Étoile CN"
+EDStar.CJ: "CJ Star" => "Étoile CJ"
+EDStar.CHd: "CHd Star" => "Étoile CHd"
+EDStar.MS: "MS-type Star" => "Étoile MS"
+EDStar.S: "S-type Star" => "Étoile S"
+EDStar.D: "White Dwarf (D) Star" => "Naine blanche D"
+EDStar.DA: "White Dwarf (DA) Star" => "Naine blanche DA"
+EDStar.DAB: "White Dwarf (DAB) Star" => "Naine blanche DAB"
+EDStar.DAO: "White Dwarf (DAO) Star" => "Naine blanche DAO"
+EDStar.DAZ: "White Dwarf (DAZ) Star" => "Naine blanche DAZ"
+EDStar.DAV: "White Dwarf (DAV) Star" => "Naine blanche DAV"
+EDStar.DB: "White Dwarf (DB) Star" => "Naine blanche DB"
+EDStar.DBZ: "White Dwarf (DBZ) Star" => "Naine blanche DBZ"
+EDStar.DBV: "White Dwarf (DBV) Star" => "Naine blanche DBV"
+EDStar.DO: "White Dwarf (DO) Star" => "Naine blanche DO"
+EDStar.DOV: "White Dwarf (DOV) Star" => "Naine blanche DOV"
+EDStar.DQ: "White Dwarf (DQ) Star" => "Naine blanche DQ"
+EDStar.DC: "White Dwarf (DC) Star" => "Naine blanche DC"
+EDStar.DCV: "White Dwarf (DCV) Star" => "Naine blanche DCV"
+EDStar.DX: "White Dwarf (DX) Star" => "Naine blanche DX"
+EDStar.N: "Neutron Star" => "Étoile à neutrons"
+EDStar.H: "Black Hole" => "Trou noir"
+EDStar.SuperMassiveBlackHole: "Supermassive Black Hole" => "Trou noir supermassif"
+EDStar.Unknown: "Unknown star type" => "Type d'étoile inconnu"
 
 Section EDPlanet
 
-EDPlanet.Metalrichbody: "Metal-rich body" @
+EDPlanet.Metalrichbody: "Metal-rich body" => "Corps riche en métaux"
 EDPlanet.Highmetalcontentbody: "High metal content world" => "Monde abondant en métaux"
 EDPlanet.Rockybody: "Rocky body" => "Monde rocheux"
 EDPlanet.Icybody: "Icy body" => "Monde glacé"
 EDPlanet.Rockyicebody: "Rocky ice world" => "Monde rocheux gelé"
 EDPlanet.Earthlikebody: "Earth-like world" => "Monde Tellurique"
 EDPlanet.Waterworld: "Water world" => "Monde aquatique"
-EDPlanet.Ammoniaworld: "Ammonia world" @
+EDPlanet.Ammoniaworld: "Ammonia world" => "Monde amoniaque"
 EDPlanet.Watergiant: "Water giant" => "Géante aquatique"
-EDPlanet.Watergiantwithlife: "Water giant with life" @
-EDPlanet.Gasgiantwithwaterbasedlife: "Gas giant with water-based life" @
+EDPlanet.Watergiantwithlife: "Water giant with life" => "Géante aquatique avec de la vie"
+EDPlanet.Gasgiantwithwaterbasedlife: "Gas giant with water-based life" => "Géante gazeuse avec de la vie basée sur l'eau"
 EDPlanet.Gasgiantwithammoniabasedlife: "Gas giant with ammonia-based life" => "Géante gazeuse à la vie basée sur l'amoniaque"
 EDPlanet.SudarskyclassIgasgiant: "Class I gas giant" => "Géante gazeuse de classe I"
 EDPlanet.SudarskyclassIIgasgiant: "Class II gas giant" => "Géante gazeuse de classe II"
@@ -104,7 +104,7 @@ EDPlanet.SudarskyclassIIIgasgiant: "Class III gas giant" => "Géante gazeuse de 
 EDPlanet.SudarskyclassIVgasgiant: "Class IV gas giant" => "Géante gazeuse de classe IV"
 EDPlanet.SudarskyclassVgasgiant: "Class V gas giant" => "Géante gazeuse de classe V"
 EDPlanet.Heliumrichgasgiant: "Helium-rich gas giant" => "Géante gazeuse riche en Hélium"
-EDPlanet.Heliumgasgiant: "Helium gas giant" @
+EDPlanet.Heliumgasgiant: "Helium gas giant" => "Géante gazeuse hélium"
 EDPlanet.Unknown: "Unknown planet type" => "Type de planète inconnu"
 
 SECTION MaterialCommodityData
@@ -116,8 +116,8 @@ SECTION MaterialCommodityData
 .Rare: "Rare" @
 .Encoded: "Encoded" => "Encodé"
 .VeryRare: "Very Rare" => "Très rare"
-.Manufactured: "Manufactured" => "Manufacturés"
-.Commodity: "Commodity" => Marchandise"
+.Manufactured: "Manufactured" => "Fabriqués"
+.Commodity: "Commodity" => "Marchandise"
 .Salvage: "Salvage" => "Ferraille"
 .Chemicals: "Chemicals" => "Produits chimiques"
 .ConsumerItems: "Consumer Items" => "Produits de consommation"
@@ -273,7 +273,7 @@ SECTION MaterialCommodityData
 .unknownorganiccircuitry: "Thargoid Organic Circuitry" => "Circuits organiques thargoids"
 .unknowntechnologycomponents: "Thargoid Technological Components" => "Composants technologiques thargoids"
 .unknownenergysource: "Sensor Fragment" => "Fragment de capteur"
-.tg_compositiondata: "Thargoid Material Composition Data" => "Données de composition de matériau thargoid" 
+.tg_compositiondata: "Thargoid Material Composition Data" => "Données de composition de matériau thargoid"
 .tg_structuraldata: "Thargoid Structural Data" => "Données de structure thargoid"
 .tg_residuedata: "Thargoid Residue Data" => "Données de résidu thargoid"
 .unknownshipsignature: "Thargoid Ship Signature" => "Signature de vaisseau thargoid"
@@ -281,7 +281,7 @@ SECTION MaterialCommodityData
 .explosives: "Explosives" => "Explosif(s)"
 .hydrogenfuel: "Hydrogen Fuel" => "Carburant à base d’hydrogène"
 .hydrogenperoxide: "Hydrogen Peroxide" => "Peroxyde d'hydrogène"
-.liquidoxygen: "Liquid Oxygen" =>  "Oxygène liquide"
+.liquidoxygen: "Liquid Oxygen" => "Oxygène liquide"
 .mineraloil: "Mineral Oil" => "Huile(s) minérale(s)"
 .nerveagents: "Nerve Agents" => "Agents neurotoxiques"
 .pesticides: "Pesticides" @
@@ -603,7 +603,7 @@ SECTION MaterialCommodityData
 .jaquesquinentianstill: "Jaques Quinentian Still" => "Brûlerie quinentienne de Jaques"
 .soontillrelics: "Soontill Relics" => "Reliques de Soontill"
 .onionheada: "Onionhead Alpha Strain" => "Variété alpha de tête d'oignon"
-.onionheadb: "Onionhead Beta Strain" => "Variété bêta de tête d'oignon
+.onionheadb: "Onionhead Beta Strain" => "Variété bêta de tête d'oignon"
 .galactictravelguide: "Galactic Travel Guide" => "Guide de voyage galactique"
 .animaleffigies: "Crom Silver Fesh" => "Fesh argenté de Crom"
 .shanscharisorchid: "Shan's Charis Orchid" => "Orchidée Shan Charis"
@@ -655,7 +655,7 @@ SECTION MaterialCommodityData
 .drones: "Drones" @
 .guardian_vesselblueprint: "Guardian Vessel Blueprint Segment" => "Morceau de plan de vaisseau – Guardians"
 .duradrives: "Duradrives" @
-.nanomedicines: "Nanomedicines" @
+.nanomedicines: "Nanomedicines" => "Nanomédicaments"
 .rhodplumsite: "Rhodplumsite" @
 .serendibite: "Serendibite" @
 .monazite: "Monazite" @
@@ -663,7 +663,7 @@ SECTION MaterialCommodityData
 .benitoite: "Benitoite" @
 .grandidierite: "Grandidierite" @
 .alexandrite: "Alexandrite" @
-.opal: "Opal" @
+.opal: "Opal" => "Opale"
 .thargoidtissuesampletype4: "Thargoid Hydra Tissue Sample" => "Échantillon de tissu thargoid – Hydra"
 .ancientkey: "Ancient Key" => "Clé antique"
 .rockforthfertiliser: "Rockforth Fertiliser" => "Fertilisant Rockforth"
@@ -679,7 +679,7 @@ SECTION MaterialCommodityData
 .apavietii: "Apa Vietii" @
 
 .RawCategory1: "Raw Category 1" => "Cat. Brut 1"
-.RawCategory2: "Raw Category 2" => "Cat. Brut 2" 
+.RawCategory2: "Raw Category 2" => "Cat. Brut 2"
 .RawCategory3: "Raw Category 3" => "Cat. Brut 3"
 .RawCategory4: "Raw Category 4" => "Cat. Brut 4"
 .RawCategory5: "Raw Category 5" => "Cat. Brut 5"
@@ -715,5 +715,5 @@ SECTION EngineeringData
 
 SECTION MissionState
 
-.ToGo: "To Go:" @
-.Progress: "Progress:;%;N1" @
+.ToGo: "To Go:" => "Reste:"
+.Progress: "Progress:;%;N1" => "Progression:;%;N1"
