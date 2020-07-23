@@ -306,7 +306,7 @@ SECTION JournalLeaveBody
 SECTION JournalLocOrJump
 
 .Faction: "Faction:" @
-.Wanted: "<;(Wanted) " => "<;(recherché) 
+.Wanted: "<;(Wanted) " => "<;(recherché) "
 .State: "State:" => "État:"
 .Allegiance: "Allegiance:" => "Allégeance"
 .Economy: "Economy:" => "Économie:"
@@ -429,7 +429,7 @@ SECTION JournalReputation
 
 .Federation: "Federation:;;0.#" => "Fédération:;;0.#"
 .Empire: "Empire:;;0.#" @
-.Independent: "Independent:;;0.#" =>  "Indépendents:;;0.#"
+.Independent: "Independent:;;0.#" => "Indépendents:;;0.#"
 .Alliance: "Alliance:;;0.#" @
 
 SECTION JournalReservoirReplenished
@@ -750,7 +750,7 @@ SECTION JournalStoredShips
 .SSP: "; cr;N0" @
 .Remote: "Remote:" => "Distant:"
 .intransit: "<; in transit" => "<; en transit"
-.at: "< at " => < le "
+.at: "< at " => "< le "
 
 SECTION JournalSupercruiseExit
 

@@ -386,7 +386,7 @@ SECTION UserControlMaterials
 SECTION UserControlMaterialCommodities
 
 .Data: "Data" => "Donnée"
-.Mats: "Mats" => Matériaux"
+.Mats: "Mats" => "Matériaux"
 .Total: "Total" @
 .Rare: "Rare" @
 .Recipes: "Recipes" => "Recettes"
@@ -538,7 +538,7 @@ SECTION UserControlModules
 .CargoCapacity: "Cargo Capacity" => "Capacité de cargaison"
 .InTransit: "In Transit" => "En transit"
 .FW: "Fuel Warning:" => "Alerte carburant:"
-.TTF: "Enter fuel warning level in % (0 = off, 1-100%)" => "Définir un niveau d'alerte carburant en % (0=pas d'alerte, 1-100%")
+.TTF: "Enter fuel warning level in % (0 = off, 1-100%)" => "Définir un niveau d'alerte carburant en % (0=pas d'alerte, 1-100%)"
 .PresstoAccept: "Press to Accept" => "Appuyer pour accepter"
 .PresstoCancel: "Press to Cancel" => "Appuer pour annuler"
 .NValid: "A Value is not valid" => "Une valeur est invalide"
@@ -574,7 +574,7 @@ SECTION UserControlOutfitting
 .Price: "Price" => "Prix"
 .Type: "Type" @
 .Info: "Info" @
-.Mass: "Mass" => "Masse
+.Mass: "Mass" => "Masse"
 
 SECTION UserControlPanelSelector
 
@@ -715,7 +715,7 @@ SECTION UserControlScan
 .ShowRaresOnly: "Show rare materials only" => "Afficher uniquement les matériaux rares"
 .checkBoxEDSM.ToolTip: "Show/Hide Body data from EDSM" => "Afficher/Masquer les données de corps provenant d'EDSM"
 .ShowMoons: "Show Moons" => "Afficher les lunes"
-.buttonExtExcel.ToolTip: "Send data on grid to excel" => 'Envoi des données vers Excel"
+.buttonExtExcel.ToolTip: "Send data on grid to excel" => "Envoi des données vers Excel"
 .lblSystemInfo.ToolTip: "Right click on panel to show/hide the toolbar" => "Clic droit sur le panneau pour afficher/masquer la barre d'outils"
 .AV: "Approx value: {0:N0}" => "Valeur approx: {0:N0}"
 .NSD: "No scan data available" => "Aucune donnée de scan dispo"
@@ -942,8 +942,8 @@ SECTION UserControlSpanel
 .blackBoxAroundTextToolStripMenuItem: "Show black box around text" => "Afficher un cadre noir autour du texte"
 .showDistancesOnFSDJumpsOnlyToolStripMenuItem: "Show Distances/Coords on FSD Jumps Only" => "Afficher les distances/coordonnées uniquement sur les sauts FSD"
 .expandTextOverEmptyColumnsToolStripMenuItem: "Expand text over empty columns" => "Étendre le texte par dessus les colonnes vides"
-.dontShowInformationWhenToolStripMenuItem: "Don't show information when.." => "Ne pas afficher les informations quand...
-.dontShowInformationWhenToolStripMenuItem.showNothingWhenDockedtoolStripMenuItem: ".. when docked or landed" => "... apponté ou atteri"
+.dontShowInformationWhenToolStripMenuItem: "Don't show information when.." => "Ne pas afficher les informations quand..."
+.dontShowInformationWhenToolStripMenuItem.showNothingWhenDockedtoolStripMenuItem: ".. when docked or landed" => "... apponté ou posé"
 .dontShowInformationWhenToolStripMenuItem.dontshowwhenInGalaxyPanelToolStripMenuItem: ".. when in Galaxy Panel" => "... dans la carte galactique"
 .dontShowInformationWhenToolStripMenuItem.dontshowwhenInSystemMapPanelToolStripMenuItem: ".. when in System Map Panel" => "... dans la carte système"
 .OrdertoolStripMenuItem: "Column Order.." => "Ordre des colonnes..."
@@ -1475,7 +1475,7 @@ SECTION UserControlTrippanel
 .jump: "jump" => "saut"
 .jumps: "jumps" => "sauts"
 .NoT: " -> Target not set" => " -> cible non définie"
-.FDEDSM: "Shows if EDSM indicates your it's first discoverer" => "Afficher
+.FDEDSM: "Shows if EDSM indicates your it's first discoverer" => "Affiche qu'EDSM indique que vous êtes le premier découvreur"
 .UKN: "System {0} unknown to EDSM" => "Système {0} inconnu d'EDSM"
 
 SECTION UserControlMaterialTrader
