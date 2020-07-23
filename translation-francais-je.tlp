@@ -206,7 +206,7 @@ SECTION JournalTypeEnum
 .SquadronPromotion: "Squadron Promotion" => "Escadron : Promotion"
 .WonATrophyForSquadron: "Won A Trophy For Squadron" => "Gain d'un trophée pour l'escadron"
 .CrimeVictim: "Crime Victim" => "Victime de crime"
-.ProspectedAsteroid: "Prospected Asteroid" => "Asteroide prospecté"
+.ProspectedAsteroid: "Prospected Asteroid" => "Astéroide prospecté"
 .ReservoirReplenished: "Reservoir Replenished" => "Réservoir rempli"
 .SquadronStartup: "Squadron Startup" => "Démarrage d'escadron"
 .ICONIDsStart: "ICONI Ds Start" @
