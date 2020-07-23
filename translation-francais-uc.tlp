@@ -1091,7 +1091,7 @@ SECTION UserControlStats
 .StandardBoost: "Standard Boost" => "Boost Standard"
 .BasicBoost: "Basic Boost" => "Boost basique"
 .JetConeBoost: "Jet Cone Boost" => "Boost par jet de matière"
-.Landed: "Landed" => "atteri"
+.Landed: "Landed" => "posé"
 .HeatWarning: "Heat Warning" => "Alerte thermique"
 .Heatdamage: "Heat damage" => "Dommage thermique"
 .FuelScooped: "Fuel Scooped" => "Carburant récupéré"

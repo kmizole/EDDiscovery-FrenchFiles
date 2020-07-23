@@ -16,7 +16,7 @@ SECTION JournalTypeEnum
 .ChangeCrewRole: "Change Crew Role" => "Changement de rôle équipage"
 .ClearSavedGame: "Clear Saved Game" => "Suppression sauvegarde"
 .CockpitBreached: "Cockpit Breached" => "Verrière brisée"
-.CollectCargo: "Collect Cargo" => "Rammassage marchandise"
+.CollectCargo: "Collect Cargo" => "Ramassage marchandise"
 .Commander: "Commander" => "Commandant"
 .CommitCrime: "Commit Crime" => "Crime commis"
 .CommunityGoal: "Community Goal" => "Objectif communautaire"
@@ -77,7 +77,7 @@ SECTION JournalTypeEnum
 .MaterialDiscovered: "Material Discovered" => "Matériau découvert"
 .MaterialTrade: "Material Trade" => "Échange de matériau"
 .Materials: "Materials" => "Matériaux"
-.MiningRefined: "Mining Refined" => "Minerai rafiné"
+.MiningRefined: "Mining Refined" => "Minerai raffiné"
 .Missions: "Missions" @
 .MissionAbandoned: "Mission Abandoned" => "Mission abandonnée"
 .MissionAccepted: "Mission Accepted" => "Mission acceptée"
@@ -152,8 +152,8 @@ SECTION JournalTypeEnum
 .StoredModules: "Stored Modules" => "Modules stockés"
 .StoredShips: "Stored Ships" => "Vaisseaux stockés"
 .Statistics: "Statistics" => "Statistiques"
-.SupercruiseEntry: "Supercruise Entry" => "Entrée en supernavigation"
-.SupercruiseExit: "Supercruise Exit" => "Sortie de supernavigation"
+.SupercruiseEntry: "Supercruise Entry" => "Entrée en super-navigation"
+.SupercruiseExit: "Supercruise Exit" => "Sortie de super-navigation"
 .Synthesis: "Synthesis" => "Synthèse"
 .SystemsShutdown: "Systems Shutdown" => "Arrêt des systèmes"
 .TechnologyBroker: "Technology Broker" => "Marchand de technologie"
@@ -187,7 +187,7 @@ SECTION JournalTypeEnum
 .VehicleSwitch_Mothership: "Vehicle Switch_Mothership" @
 .VehicleSwitch_Fighter: "Vehicle Switch_Fighter" @
 .AppliedToSquadron: "Applied To Squadron" => "Candidature Escadron"
-.AsteroidCracked: "Asteroid Cracked" => "Astéroide explosé"
+.AsteroidCracked: "Asteroid Cracked" => "Astéroide fracturé"
 .CodexEntry: "Codex Entry" => "Entrée de codex"
 .DisbandedSquadron: "Disbanded Squadron" => "Escadron dissout"
 .FSDTarget: "FSD Target" => "Cible FSD"
@@ -282,7 +282,7 @@ SECTION JournalCommodityPricesBase
 
 SECTION JournalEngineerCraftBase
 
-.InSlot: "In Slot:" => "Dans le compartiment:"
+.InSlot: "In Slot:" => "Dans l'emplacement:"
 .By: "By:" => "Par:"
 .Blueprint: "Blueprint:" => "Plan:"
 .Level: "Level:" => "Niveau:"
@@ -308,7 +308,7 @@ SECTION JournalLocOrJump
 .Faction: "Faction:" @
 .Wanted: "<;(Wanted) " => "<;(recherché) "
 .State: "State:" => "État:"
-.Allegiance: "Allegiance:" => "Allégeance"
+.Allegiance: "Allegiance:" => "Allégeance:"
 .Economy: "Economy:" => "Économie:"
 .Population: "Population:" @
 .Government: "Government:" => "Gouvernement:"

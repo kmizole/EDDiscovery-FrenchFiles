@@ -663,7 +663,7 @@ SECTION MaterialCommodityData
 .benitoite: "Benitoite" @
 .grandidierite: "Grandidierite" @
 .alexandrite: "Alexandrite" @
-.opal: "Opal" => "Opale"
+.opal: "Opal" => "Opale du vide"
 .thargoidtissuesampletype4: "Thargoid Hydra Tissue Sample" => "Échantillon de tissu thargoid – Hydra"
 .ancientkey: "Ancient Key" => "Clé antique"
 .rockforthfertiliser: "Rockforth Fertiliser" => "Fertilisant Rockforth"

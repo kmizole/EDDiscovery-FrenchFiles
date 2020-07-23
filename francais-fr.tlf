@@ -89,8 +89,8 @@ SECTION PopOutInfo
 .BookmarkManager.Title: "Bookmarks" => "Marque-pages"
 .CombatPanel.Description: "Display combat statistics" => "Affichage des statistiques de combat"
 .CombatPanel.Title: "Combat" @
-.Route.Description: "Route Finder from stored star data" => "Calcul de route depuis les données stellaires stockées"
-.Route.Title: "Route Finder" => "Calcul de route"
+.Route.Description: "Route Finder from stored star data" => "Calcul d'itinéraire depuis les données stellaires stockées"
+.Route.Title: "Route Finder" => "Calcul d'itinéraire"
 .Expedition.Description: "Expedition Planner, make up a expedition route" => "Planificateur d'expédition"
 .Expedition.Title: "Expedition" => "Expédition"
 .Exploration.Description: "Exploration Planner, make a list of the stars to explore" => "Planificateur d'exploration, dresse une liste des étoiles à explorer"
@@ -103,8 +103,8 @@ SECTION PopOutInfo
 .Trippanel.Title: "Trip Computer" => "Ordinateur de voyage"
 .NotePanel.Description: "System notes overlay" => "Notes sur le système, superposé (overlay)"
 .NotePanel.Title: "Notes" @
-.RouteTracker.Description: "Route tracker overlay" => "Suivi de route, superposé (overlay)"
-.RouteTracker.Title: "Route Tracker" => "Suivi de route"
+.RouteTracker.Description: "Route tracker overlay" => "Suivi d'itinéraire, superposé (overlay)"
+.RouteTracker.Title: "Route Tracker" => "Suivi d'itinéraire"
 .Compass.Description: "Ground compass overlay to show bearing to planetary coordinates" => "Boussole terrestre superposée (overlay) indiquant la direction de coordonnées planétaires"
 .Compass.Title: "Compass" => "Boussole"
 .Settings.Description: "Settings for ED Discovery " => "Paramètres d'ED Discovery"
