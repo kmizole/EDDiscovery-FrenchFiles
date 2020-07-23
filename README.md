@@ -8,6 +8,7 @@ Regex find :
 
 * Translated lines (and correctly closed with ") : ^.*(" => ").*"$
 * Not translated lines : .\*@$
+* extra(s) double quote in translated lines : .*" => ".+".*"$
 
 ## Misunderstood/to check/todo terms :
 
