@@ -578,8 +578,8 @@ SECTION UserControlOutfitting
 
 SECTION UserControlPanelSelector
 
-.NOADDONS: "NO ADD ONS!" => "Pas d'add-ons !"
-.AddOns: " Add Ons" => "Add ons"
+.NOADDONS: "NO ADD ONS!" => "Pas d'Add-Ons !"
+.AddOns: " Add Ons" => " Add-Ons"
 .TTA: "Click to add or remove Add Ons" => "Cliquer pour ajouter ou retirer des add-ons"
 .TTB: "Add ons are essential additions to your EDD experience!" => "Les add-ons sont essentiels à votre expérience EDD !"
 .PP1: "Pop out in a new window" => "Ouvrir dans une nouvelle fenêtre"
@@ -680,7 +680,7 @@ SECTION UserControlRouteTracker
 .showJumpsToolStripMenuItem: "Show Jumps To Go" => "Afficher les sauts restants"
 .showWaypointCoordinatesToolStripMenuItem: "Show Waypoint Coordinates" => "Afficher les coordonnées de point de passage"
 .showDeviationFromRouteToolStripMenuItem: "Show Deviation from route" => "Afficher l'écart de l'itinéraire"
-.autoCopyWPToolStripMenuItem: "Auto copy waypoint" => "Opier automatiquement le point de passage"
+.autoCopyWPToolStripMenuItem: "Auto copy waypoint" => "Copier automatiquement le point de passage"
 .autoSetTargetToolStripMenuItem: "Auto set target" => "Définir automatiquement la cible"
 .NoRoute: "Please set a route, by right clicking" => "Merci de définir un itinéraire, en effectuant un clic droit"
 .NoWay: "Route contains no waypoints" => "l'itinéraire ne contient pas de point de passage"
@@ -984,7 +984,7 @@ SECTION UserControlStarDistance
 .addToExpeditionToolStripMenuItem: "Add to Expedition" => "Ajouter à l'expédition"
 .colName: "Name" => "Nom"
 .colDistance: "Distance" @
-.colVisited: "Visited" => "Visité"
+.colVisited: "Visited" => "Visite(s)"
 .checkBoxCube: "Cube" @
 .labelExtMin: "Min" @
 .labelExtMax: "Max" @
