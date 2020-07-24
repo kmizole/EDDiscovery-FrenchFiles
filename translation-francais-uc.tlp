@@ -862,7 +862,7 @@ SECTION UserControlSettings
 .180daysold: ">180 days old" => "+ de 180 jours"
 .270daysold: ">270 days old" => "+ de 270 jours"
 .365daysold: "> 365 days old" => "+ d'un an"
-.ESM: "Scans,Cargo,Missions,State,Jumps etc" => "Scans, Cargaison, Missions, États, Sauts, etc"
+.ESM: "Scans,Cargo,Missions,State,Jumps etc" => "Scans, Cargaison, Missions, État, Sauts, etc"
 .FS: "All entries for Statistics" => "Toutes les entrées pour les statistiques"
 .EJS: "Jumps and Scans" => "Sauts et scans"
 .EJ: "Jumps" => "Sauts"
@@ -1243,7 +1243,7 @@ SECTION UserControlSysInfo
 .labelPosition: "Pos" @
 .labelHomeDist: "Home" => "Base"
 .labelSolDist: "Sol" @
-.labelState: "State" => "État"
+.labelState: "State" => "Statut"
 .labelAllegiance: "Allegiance" => "Allégeance"
 .labelGov: "Gov" => "Gouv"
 .labelEconomy: "Economy" => "Économie"
@@ -1266,7 +1266,7 @@ SECTION UserControlSysInfo
 .toolStripBody: "Display Body Name" => "Afficher le nom du corps"
 .toolStripPosition: "Display Position" => "Afficher la position"
 .toolStripDistanceFrom: "Display Distance From" => "Afficher la distance depuis"
-.toolStripSystemState: "Display System State" => "Afficher l'état du système"
+.toolStripSystemState: "Display System State" => "Afficher le statut du système"
 .toolStripNotes: "Display Notes" => "Afficher les notes"
 .toolStripTarget: "Display Target" => "Afficher la cible"
 .toolStripShip: "Display Ship Information" => "Afficher les informations du vaisseau"

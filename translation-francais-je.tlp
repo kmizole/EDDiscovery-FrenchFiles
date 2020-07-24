@@ -252,7 +252,7 @@ SECTION CommunityGoal
 
 SECTION FSSSignal
 
-.State: "State:" => "État:"
+.State: "State:" => "Statut:"
 .Faction: "Faction:" @
 .USSType: "USS Type:" => "Type de SNI:"
 .ThreatLevel: "Threat Level:" => "Niveau de menace:"
@@ -307,14 +307,14 @@ SECTION JournalLocOrJump
 
 .Faction: "Faction:" @
 .Wanted: "<;(Wanted) " => "<;(recherché) "
-.State: "State:" => "État:"
+.State: "State:" => "Statut:"
 .Allegiance: "Allegiance:" => "Allégeance:"
 .Economy: "Economy:" => "Économie:"
 .Population: "Population:" @
 .Government: "Government:" => "Gouvernement:"
 .Inf: "Inf:;%" @
-.PendingState: "Pending State:" => "État imminent:"
-.RecoveringState: "Recovering State:" => "État en récupération:"
+.PendingState: "Pending State:" => "Statut imminent:"
+.RecoveringState: "Recovering State:" => "Récupération de statut:"
 
 SECTION JournalFuelScoop
 
@@ -342,7 +342,7 @@ SECTION JournalLocOrJump
 .SquadronSystem: ";Squadron System" => ";Système d'escadron"
 .HappiestSystem: ";Happiest System" @
 .HomeSystem: ";Home System" => ";Système de base"
-.ActiveState: "Active State:" => "État courant:"
+.ActiveState: "Active State:" => "Statut courant:"
 
 SECTION JournalMissionAccepted
 
@@ -828,7 +828,7 @@ SECTION JournalEntry
 .insystem: "< in system " => "< dans le système "
 .Wanted: ";(Wanted)" => ";(Wanted)"
 .ActiveFine: ";Active Fine" => ";Amende impayée"
-.instate: "< in state " => "< dans l'état "
+.instate: "< in state " => "< dans le statut "
 .Allegiance: "Allegiance:" => "Allegeance:"
 .Economy: "Economy:" => "Économie:"
 .Government: "Government:" => "Gouvernement:"
